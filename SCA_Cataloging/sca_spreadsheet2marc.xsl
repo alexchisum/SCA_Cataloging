@@ -65,6 +65,7 @@
                 <xsl:variable name="Personal_Creator_Name_2" select="Personal_Creator_Name_2"/>
                 <xsl:variable name="Personal_Creator_Name_3" select="Personal_Creator_Name_3"/>
                 <xsl:variable name="Personal_Creator_Name_4" select="Personal_Creator_Name_4"/>
+                <xsl:variable name="Personal_Creator_Name_5" select="Personal_Creator_Name_5"/>
                 <xsl:variable name="Corporate_Creator_Name_1" select="Corporate_Creator_Name_1"/>
                 <xsl:variable name="Corporate_Creator_Name_2" select="Corporate_Creator_Name_2"/>
                 <xsl:variable name="Publisher" select="Publisher"/>
@@ -81,6 +82,8 @@
                 <xsl:variable name="Copy_Number" select="Copy_Number"/>
                 <xsl:variable name="Description" select="Description"/>
                 <xsl:variable name="Chronology" select="Chronology"/>
+                <xsl:variable name="Enumeration" select="Enumeration"/>
+                <xsl:variable name="Location" select="Location"/>
 
                 <!-- Here begins the tempate for the MARC record -->
                 <marc:record>
@@ -826,6 +829,16 @@
                             </xsl:choose>
                         </marc:subfield>
                     </marc:datafield>
+                    <marc:datafield tag="700" ind1="1" ind2=" ">
+                        <marc:subfield code="a">
+                            <xsl:choose>
+                                <xsl:when test="$Personal_Creator_Name_5 != ''">
+                                    <xsl:value-of select="$Personal_Creator_Name_5"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
 
 
                     <!-- The first corporate name on an entry is included in a 110 field.
@@ -849,8 +862,8 @@
                         <marc:subfield code="9">LOCAL</marc:subfield>
                     </marc:datafield>
 
-                    <!-- The 936 field lists the name of the donor -->
-                    <marc:datafield tag="936" ind1="1" ind2=" ">
+                    <!-- The 937 field lists the name of the donor -->
+                    <marc:datafield tag="937" ind1="1" ind2=" ">
                         <xsl:choose>
                             <xsl:when test="$Donor != ''">
                                 <marc:subfield code="a"><xsl:value-of select="$Donor"
@@ -868,7 +881,9 @@
                     <marc:datafield tag="949" ind1=" " ind2=" ">
                         <marc:subfield code="a">FTaSU</marc:subfield>
                         <marc:subfield code="b">FSUSP</marc:subfield>
-                        <marc:subfield code="c">REVIEW</marc:subfield>
+                        <marc:subfield code="c">
+                            <xsl:value-of select="$Location"/>
+                        </marc:subfield>
                         <marc:subfield code="j">
                             <xsl:choose>
                                 <xsl:when test="$Description != ''">
@@ -881,6 +896,14 @@
                             <xsl:choose>
                                 <xsl:when test="$Chronology != ''">
                                     <xsl:value-of select="$Chronology"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="m">
+                            <xsl:choose>
+                                <xsl:when test="$Enumeration != ''">
+                                    <xsl:value-of select="$Enumeration"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>

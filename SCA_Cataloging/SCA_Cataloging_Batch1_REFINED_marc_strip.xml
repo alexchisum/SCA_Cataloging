@@ -1,0 +1,3460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:marc="http://www.loc.gov/MARC21/slim"
+                 xmlns:mads="http://www.loc.gov/mads/v2"
+                 xmlns:etd="http://www.ndltd.org/standards/metadata/etdms/1.0/"
+                 xmlns:xlink="http://www.w3.org/1999/xlink"
+                 xmlns:mods="http://www.loc.gov/mods/v3"
+                 xmlns:dcterms="http://purl.org/dc/terms/"
+                 xmlns:oasis="http://www.niso.org/standards/z39-96/ns/oasis-exchange/table"
+                 xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1984    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762753</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762753</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Herzig, Alison Cragin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Thaddeus /</marc:subfield>
+         <marc:subfield code="c">by Alison Cragin Herzig and Jane Lawrence Mali ; illustrated by Stepehn Gammell</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Little, Brown and Company,</marc:subfield>
+         <marc:subfield code="c">1984</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Mali, Jane Lawrence</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gammell, Stepehn</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1964    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762746</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762746</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gramatky, Hardie</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Little Toot on the Thames /</marc:subfield>
+         <marc:subfield code="c">Hardie Gramatky ; illustrated by Hardie Gramatky</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">G.P. Putnam's Sons, New York,</marc:subfield>
+         <marc:subfield code="c">1964</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gramatky, Hardie</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1999    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762738</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762738</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Updike, John</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="2">
+         <marc:subfield code="a">A Child's Calendar /</marc:subfield>
+         <marc:subfield code="c">John Updike ; illustrated by Trina Schart Hyman</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Holiday House, New York,</marc:subfield>
+         <marc:subfield code="c">1999</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Hyman, Trina Schart</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2019    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762696</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762696</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Solnit, Rebecca</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Cinderella Liberator /</marc:subfield>
+         <marc:subfield code="c">Rebecca Solnit ; illustrated by Arthur Rackham</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Haymarket Books,</marc:subfield>
+         <marc:subfield code="c">2019</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Rackham, Arthur</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1992    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762704</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762704</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Mayers, Florence Cassen</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Folk Art Counting Book /</marc:subfield>
+         <marc:subfield code="c">Florence Cassen Mayers ; illustrated by Amy Watson and Staff of The Abby Aldrich Rockefeller Art Center</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">The Colonial Williamsburg Foundation, Williamsburg, Virgina, In association with Harry N. Abrams, Inc, Publishers, New York,</marc:subfield>
+         <marc:subfield code="c">1992</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Watson, Amy</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="2" ind2=" ">
+         <marc:subfield code="a">Staff of The Abby Aldrich Rockefeller Art Center</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2003    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762712</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762712</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Atwood, Margaret</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Rude Ramsay and the Roaring Radishes /</marc:subfield>
+         <marc:subfield code="c">Margaret Atwood ; illustrated by Dusan Pretricic</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Bloomsbury Children's Books,</marc:subfield>
+         <marc:subfield code="c">2003</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Pretricic, Dusan</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2015    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762720</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762720</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Ungerer, Tomi</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Rufus The Bat Who Loved Colors /</marc:subfield>
+         <marc:subfield code="c">Tomi Ungerer ; illustrated by Tomi Ungerer</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Phaidon Press, Inc.,</marc:subfield>
+         <marc:subfield code="c">2015</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Ungerer, Tomi</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1991    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762787</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762787</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Jeffers, Susan</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Brother Eagle, Sister Sky /</marc:subfield>
+         <marc:subfield code="c">Susan Jeffers ; illustrated by Susan Jeffers</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Scholastic Book Collection,</marc:subfield>
+         <marc:subfield code="c">1991</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Jeffers, Susan</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2011    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762779</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762779</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Walsh, Barbara</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Sammy in the Sky /</marc:subfield>
+         <marc:subfield code="c">Barbara Walsh ; illustrated by Jamie Wyeth</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Candlewick Press,</marc:subfield>
+         <marc:subfield code="c">2011</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Signed by Jamie Wyeth" - note from Marsha Gontarski</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Wyeth, Jamie</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1975    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762761</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762761</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Elzea, Rowland</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Howard Pyle /</marc:subfield>
+         <marc:subfield code="c">Rowland Elzea ; illustrated by Howard Pyle</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">A Peacock Press/Bantam Book,</marc:subfield>
+         <marc:subfield code="c">1975</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Introduction by Rowland Elzea</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Pyle, Howard</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2003    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762613</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762613</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Seeger, Pete</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Turn! Turn! Turn! /</marc:subfield>
+         <marc:subfield code="c">Pete Seeger ; illustrated by Wendy Anderson Halperin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Simon and Schuster Books for Young Readers,</marc:subfield>
+         <marc:subfield code="c">2003</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"CD in back - fascinating format" - note from Marsha Gontarski</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Halperin, Wendy Anderson</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1992    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762670</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762670</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Krull, Kathleen</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Gonna Sing My Head Off! American Folk Songs for Children /</marc:subfield>
+         <marc:subfield code="c">by Kathleen Krull and Arlo Guthrie ; illustrated by Allen Garns</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Alfred A. Knopf, New York,</marc:subfield>
+         <marc:subfield code="c">1992</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Introductory Note by Arlo Guthrie</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Guthrie, Arlo</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Garns, Allen</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1982    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762688</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762688</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Crossley-Holland, Kevin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Beowulf /</marc:subfield>
+         <marc:subfield code="c">Kevin Crossley-Holland ; illustrated by Charles Keeping</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Oxford University Press, Oxford Toronto Melbourne,</marc:subfield>
+         <marc:subfield code="c">1982</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Keeping, Charles</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1980    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762654</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762654</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Jamie Wyeth /</marc:subfield>
+         <marc:subfield code="c">Jamie Wyeth</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Houghton Mifflin Company, Boston 1980,</marc:subfield>
+         <marc:subfield code="c">1980</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Wyeth, Jamie</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1999    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762647</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762647</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Mayer, Marianna</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Iron John /</marc:subfield>
+         <marc:subfield code="c">Marianna Mayer ; illustrated by Winslow Pels</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Published by Morrow Junior Books, a division of William Morrow and Company, Inc.,</marc:subfield>
+         <marc:subfield code="c">1999</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Pels, Winslow</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2014    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762639</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762639</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Kim, Patti</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Here I Am /</marc:subfield>
+         <marc:subfield code="c">Patti Kim ; illustrated by Sonia Sánchez</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Capstone Young Readers,</marc:subfield>
+         <marc:subfield code="c">2014</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Patty Kim. Wordless and well illustrated by Sonia Sanchez" - note from Marsha Gontarski</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Sánchez, Sonia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2012    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762621</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762621</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Collodi, Carlo</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Pinocchio /</marc:subfield>
+         <marc:subfield code="c">by Carlo Collodi, Brock Geoffrey, and Umberto Eco ; illustrated by Fulvio Testa</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">The New York Review Children's Collection, New York,</marc:subfield>
+         <marc:subfield code="c">2012</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Translated by Geoffrey Brock, Introduction by Umberto Eco</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Brock, Geoffrey</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Eco, Umberto</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Testa, Fulvio</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1997    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762605</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762605</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Polk, Milbry</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Egyptian Mummies: A Pop-Up Book /</marc:subfield>
+         <marc:subfield code="c">Milbry Polk ; illustrated by Roger Stewart</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Published in the United States 1997 by Dutton Children's Books, a division of Penguin Books USA INC,</marc:subfield>
+         <marc:subfield code="c">1997</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Stewart, Roger</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2000    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762555</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762555</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Crowther, Robert</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Robert Crowther's Amazing Pop-Up House of Inventions /</marc:subfield>
+         <marc:subfield code="c">Robert Crowther ; illustrated by Robert Crowther</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Candlewick Press,</marc:subfield>
+         <marc:subfield code="c">2000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Crowther, Robert</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2009    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762589</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762589</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Ray, Jane</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Snow White: A Three-Dimensional Fairy-Tale Theater /</marc:subfield>
+         <marc:subfield code="c">Jane Ray ; illustrated by Jane Ray</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Candlewick Press,</marc:subfield>
+         <marc:subfield code="c">2009</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Ray, Jane</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1994    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762597</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762597</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Smyth, Iain</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Mystery of The Russian Ruby: A Pop-Up Whodunit /</marc:subfield>
+         <marc:subfield code="c">Iain Smyth ; illustrated by Iain Smyth</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Published in the United States 1994 by Dutton Children's Books, a division of Penguin Books USA INC,</marc:subfield>
+         <marc:subfield code="c">1994</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Smyth, Iain</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1998    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762662</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762662</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Murphy, Chuck</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Jack and the Beanstalk /</marc:subfield>
+         <marc:subfield code="c">Chuck Murphy ; illustrated by Chuck Murphy</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Little Simon, Simon &amp; Schuster, New York,</marc:subfield>
+         <marc:subfield code="c">1998</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Murphy, Chuck</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1976    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762563</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762563</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Prescott, Kenneth W.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Ben Shahn: A Retrospective 1898-1969 /</marc:subfield>
+         <marc:subfield code="c">Kenneth W. Prescott ; illustrated by Ben Shahn</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Published by the Jewish Museum, New York, under the auspices of Thew Jewish Theological Seminary of America,</marc:subfield>
+         <marc:subfield code="c">1976</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Shahn, Ben</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1981    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762548</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762548</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Brown, Margaret Wise</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Golden Bunny /</marc:subfield>
+         <marc:subfield code="c">Margaret Wise Brown ; illustrated by Leonard Weisgard</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">A Golden Book - New York, Western Publishing Company, Inc., Racine, Wisconsin 53404,</marc:subfield>
+         <marc:subfield code="c">1981</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Weisgard, Leonard</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1980    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762571</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762571</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Vonnegut, Kurt</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Sun Moon Star /</marc:subfield>
+         <marc:subfield code="c">Kurt Vonnegut ; illustrated by Ivan Chermayeff</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Harper &amp; Row, Publishers,</marc:subfield>
+         <marc:subfield code="c">1980</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">"Kurt Vonnegut and Ivan Chermayeff, signed by publisher friend, Frank Platt" - note from Marsha Gontarski</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Chermayeff, Ivan</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Gontarski</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Marsha,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GONT</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1980    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762274</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762266</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762274</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Hulton, Paul</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Hollar's London /</marc:subfield>
+         <marc:subfield code="c">Paul Hulton ; illustrated by John Fisher</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">Limited Edition</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Published in association with The British Museum by Edgeworth Press,</marc:subfield>
+         <marc:subfield code="c">1980</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Located inside an archival box</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Fisher, John</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Rare</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GEN</marc:subfield>
+         <marc:subfield code="j">vol.I</marc:subfield>
+         <marc:subfield code="m">I</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1980    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762274</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762266</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762266</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Hulton, Paul</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Hollar's London /</marc:subfield>
+         <marc:subfield code="c">Paul Hulton ; illustrated by John Fisher</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">Limited Edition</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Published in association with The British Museum by Edgeworth Press,</marc:subfield>
+         <marc:subfield code="c">1980</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">vol. II is inside the green binding box of vol. I</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Fisher, John</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Rare</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GEN</marc:subfield>
+         <marc:subfield code="j">vol.II</marc:subfield>
+         <marc:subfield code="m">II</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1996    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762258</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762258</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Wyngaerde, Anthonis van den</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Wyngarde's Panorama of London /</marc:subfield>
+         <marc:subfield code="c">Anthonis van den Wyngaerde ; illustrated by Howard Colvin and Susan Foister</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">London Topographical Society in association with The Ashmolean Museum, Oxford,</marc:subfield>
+         <marc:subfield code="c">1996</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Located inside the archival box containing Hollar's London</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Colvin, Howard</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Foister, Susan</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Rare</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GEN</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2021    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762282</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762282</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Stan</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Samuel Beckett os Grandes Textos Teatrais /</marc:subfield>
+         <marc:subfield code="c">Stan Gontarski</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Giostri Editora,</marc:subfield>
+         <marc:subfield code="c">2021</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Grove</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Stan,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GRVE</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1991    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762357</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762357</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Braendlin, Bonnie</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Cultural Power/Cultural Literacy /</marc:subfield>
+         <marc:subfield code="c">Bonnie Braendlin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">The Florida State University Press,</marc:subfield>
+         <marc:subfield code="c">1991</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Arch</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">ARCH</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1979    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762340</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762340</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Styron, William</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Message of Auschwitz /</marc:subfield>
+         <marc:subfield code="c">William Styron</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Press de la Warr,</marc:subfield>
+         <marc:subfield code="c">1979</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Rare</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GEN</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1953    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762324</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762324</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Lee, William</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Junkie||Narcotic Agent /</marc:subfield>
+         <marc:subfield code="c">by William Lee and Maurice Helbrant</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Ace Books, Inc,</marc:subfield>
+         <marc:subfield code="c">1953</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Two novels in a reversible mass market book</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">William Lee is the pen name of William Burroughs</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Helbrant, Maurice</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Grove</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gontarski, Stan,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GRVE</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1961    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762316</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762316</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Burroughs, William</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Soft Machine /</marc:subfield>
+         <marc:subfield code="c">William Burroughs</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">The Traveler's Companion Series published by The Olympia Press,</marc:subfield>
+         <marc:subfield code="c">1961</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Grove</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">GRVE</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      suuuu    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762795</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762795</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Lycosthenis, Conrad</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Wunderwerck, oder Gottes unergrundtliches verbilden /</marc:subfield>
+         <marc:subfield code="c">Conrad Lycosthenis</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">,</marc:subfield>
+         <marc:subfield code="c">[date of publication not identified]</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Loose ephemera from book available in SCA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Vault</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">VAU</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1989    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762407</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762407</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Perocheau, Joël</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Marc-Gaspard Paulet: General de la Revolution et de l'Empire /</marc:subfield>
+         <marc:subfield code="c">Joël Perocheau</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Histoire Le Cercle D'Or, Les Sables d'Olonne,</marc:subfield>
+         <marc:subfield code="c">1989</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2006    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762399</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762399</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Franceschi, Michel</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Bonaparte in Egypt or the sublime hesitation of history /</marc:subfield>
+         <marc:subfield code="c">Michel Franceschi ; illustrated by Jonathan M. House</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">International Napoleonic Society,</marc:subfield>
+         <marc:subfield code="c">2006</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Translated by Jonathan M. House</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">House, Jonathan M.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1988    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762381</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762381</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Conrad, Philippe</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Louis XVII: L'énigme du roi perdu /</marc:subfield>
+         <marc:subfield code="c">Philippe Conrad</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Editions du May,</marc:subfield>
+         <marc:subfield code="c">1988</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1999    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762506</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762506</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Gotteri, Nicole</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Claude Petiet: ministre de la Guerre intendent général de la Grande Armée et ses fils Alexandre, Auguste et Sylvain /</marc:subfield>
+         <marc:subfield code="c">Nicole Gotteri</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Ce Volume est le vingt-huitieme de la collection Kronos SPM,</marc:subfield>
+         <marc:subfield code="c">1999</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s2001    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762514</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762514</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Hulot, Frédéric</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Le Général Moreau /</marc:subfield>
+         <marc:subfield code="c">Frédéric Hulot</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Pygmalion, Gerard Watelet, Paris,</marc:subfield>
+         <marc:subfield code="c">2001</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1979    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762522</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762522</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Général Bertrand</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Lettres à Fanny 1808-1815 /</marc:subfield>
+         <marc:subfield code="c">Général Bertrand ; illustrated by Jean Tulard</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Albin Michel,</marc:subfield>
+         <marc:subfield code="c">1979</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">Preface by Jean Tulard</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Tulard, Jean</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1892    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762530</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762530</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Browning, Oscar</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Flight to Varennes and other historical essays /</marc:subfield>
+         <marc:subfield code="c">Oscar Browning</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Lond, Swan Sonnenschein &amp; Co., Paternoster Square, 1892,</marc:subfield>
+         <marc:subfield code="c">1892</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1952    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762290</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762290</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Andrieux, Maurice</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Mademoiselle Aïssé /</marc:subfield>
+         <marc:subfield code="c">Maurice Andrieux</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Paris, Librarie Plon les petits fils de plon et nourrit, Imprimeurs-Editeurs,</marc:subfield>
+         <marc:subfield code="c">1952</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1962    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762423</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762423</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Mitchiner, Margaret</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="2">
+         <marc:subfield code="a">A Muse in Love: Julie de Lespinasse /</marc:subfield>
+         <marc:subfield code="c">Margaret Mitchiner</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">The Bodley Head Ltd by C. Tinling &amp; Company Ltd, Prescot,</marc:subfield>
+         <marc:subfield code="c">1962</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1986    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762415</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762415</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Madame La Duchesse de Tourzel</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Mémoires de Madame La Duchesse de Tourzel /</marc:subfield>
+         <marc:subfield code="c">Madame La Duchesse de Tourzel</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Mercure de France, 1969 et 1986, pour la presente edition. Imprime en France,</marc:subfield>
+         <marc:subfield code="c">1986</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1968    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762365</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762365</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Manceron, Claude</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Napoleon Recaptures Paris /</marc:subfield>
+         <marc:subfield code="c">Claude Manceron</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">London, George Allen &amp; Unwin LTD Ruskin House,</marc:subfield>
+         <marc:subfield code="c">1968</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1895    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762308</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762308</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Bouvier, Félix</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Les premiers combats de 1814 /</marc:subfield>
+         <marc:subfield code="c">Félix Bouvier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Paris Librarie Leopold Cerf,</marc:subfield>
+         <marc:subfield code="c">1895</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1974    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762332</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762332</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Cronin, Vincent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Louis &amp; Antoinette /</marc:subfield>
+         <marc:subfield code="c">Vincent Cronin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">William Morrow &amp; Company, Inc New York,</marc:subfield>
+         <marc:subfield code="c">1974</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1968    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762472</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762472</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Furneaux, Rupert</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Last Days of Marie Antoinette and Louis XVI /</marc:subfield>
+         <marc:subfield code="c">Rupert Furneaux</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">This edition published by Dorset Press, a division of Marboro Books Corporation, by arrangement with Harper &amp; Row, Publishers,</marc:subfield>
+         <marc:subfield code="c">1968</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1946    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762480</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762480</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Woodgate, M.V.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="4">
+         <marc:subfield code="a">The Abbé Edgeworth /</marc:subfield>
+         <marc:subfield code="c">M.V. Woodgate</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">1st ed.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Longmans, Green and Co., Inc,</marc:subfield>
+         <marc:subfield code="c">1946</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1994    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762498</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762498</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Baqué, Jean-François</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">L'homme qui devinait Napoléon Jomini /</marc:subfield>
+         <marc:subfield code="c">Jean-François Baqué</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Librarie Academique Perrin,</marc:subfield>
+         <marc:subfield code="c">1994</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1962    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762449</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762449</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Bouissounouse, Janine</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Julie: The Life of Mlle. de Lespinasse /</marc:subfield>
+         <marc:subfield code="c">Janine Bouissounouse ; illustrated by Pierre de Fontnouvelle</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">1st ed.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Appleton-Century-Crofts, Inc. New York,</marc:subfield>
+         <marc:subfield code="c">1962</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="700" ind1="1" ind2=" ">
+         <marc:subfield code="a">Fontnouvelle, Pierre de</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1933    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762456</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762456</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Lenotre, G.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">La fille de Louis XVI /</marc:subfield>
+         <marc:subfield code="c">G. Lenotre</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Tours, Maison Alfred Mame et Fils, Agence a Paris,</marc:subfield>
+         <marc:subfield code="c">1933</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1900    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762373</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762373</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Carette, Madame, nee Bouvet</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Madame Campan /</marc:subfield>
+         <marc:subfield code="c">Madame Carette, nee Bouvet</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">8th ed.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Paris, Societe d'Editions Litteraires et Artistiques,</marc:subfield>
+         <marc:subfield code="c">1900</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1909    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762431</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762431</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Vicomte de Reiset</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Anne de Caumont la Force, comtesse de Balbi /</marc:subfield>
+         <marc:subfield code="c">Vicomte de Reiset</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="250" ind1=" " ind2=" ">
+         <marc:subfield code="a">6th ed.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Paris, Emile-Paul, Editeurs,</marc:subfield>
+         <marc:subfield code="c">1909</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>     nam  22     Mi 4500</marc:leader>
+      <marc:controlfield tag="008">      s1987    xx            000 0     d</marc:controlfield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">FDA</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">FDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(FSUSCA)31254802762464</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="l">31254802762464</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="100" ind1="1" ind2=" ">
+         <marc:subfield code="a">Comte d'Hézecques</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Page à la cour de Louis XVI /</marc:subfield>
+         <marc:subfield code="c">Comte d'Hézecques</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="264" ind1=" " ind2="1">
+         <marc:subfield code="a">[Place of publication not identified] :</marc:subfield>
+         <marc:subfield code="b">Collection - Miroir de L'Histoire - Tallandier,</marc:subfield>
+         <marc:subfield code="c">1987</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="932" ind1="2" ind2=" ">
+         <marc:subfield code="a">Napoleon</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="937" ind1="1" ind2=" ">
+         <marc:subfield code="a">La Vean, Michael,</marc:subfield>
+         <marc:subfield code="e">donor</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="949" ind1=" " ind2=" ">
+         <marc:subfield code="a">FTaSU</marc:subfield>
+         <marc:subfield code="b">FSUSP</marc:subfield>
+         <marc:subfield code="c">NAP</marc:subfield>
+         <marc:subfield code="9">LOCAL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>
