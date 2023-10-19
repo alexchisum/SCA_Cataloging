@@ -54,9 +54,13 @@
                 <xsl:variable name="field035_33" select="field035_33"/>
                 <xsl:variable name="field035_34" select="field035_34"/>
                 <xsl:variable name="field035_35" select="field035_35"/>
+                <xsl:variable name="Dewey_a" select="Dewey_Call_number_a"/>
+                <xsl:variable name="Dewey_b" select="Dewey_Call_number_b"/>
+                <xsl:variable name="LCCN_a" select="LC_Call_number_a"/>
+                <xsl:variable name="LCCN_b" select="LC_Call_number_b"/>
                 <xsl:variable name="Collection" select="Collection"/>
                 <xsl:variable name="Title_500" select="Title_500"/>
-                <xsl:variable name="Norm_Title" select="Norm_Title"/>
+                <xsl:variable name="Norm_Title" select="Title"/>
                 <xsl:variable name="Volume" select="Volume"/>
                 <xsl:variable name="Part_Title" select="Part_Title"/>
                 <xsl:variable name="Statement_of_Responsibility"
@@ -469,6 +473,47 @@
                         </marc:subfield>
                     </marc:datafield>
 
+                    <!-- This field is used to populate the LC call number field  -->
+                    <marc:datafield tag="050" ind1=" " ind2="4">
+                        <marc:subfield code="a">
+                            <xsl:choose>
+                                <xsl:when test="$LCCN_a != ''">
+                                    <xsl:value-of select="$LCCN_a"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:choose>
+                                <xsl:when test="$LCCN_b != ''">
+                                    <xsl:value-of select="$LCCN_b"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
+
+                    <!-- This field is used to populate the Dewey call number field  -->
+                    <marc:datafield tag="082" ind1="0" ind2="4">
+                        <marc:subfield code="a">
+                            <xsl:choose>
+                                <xsl:when test="$Dewey_a != ''">
+                                    <xsl:value-of select="$Dewey_a"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:choose>
+                                <xsl:when test="$Dewey_b != ''">
+                                    <xsl:value-of select="$Dewey_b"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
+
+
                     <!-- The first name that appears on the spreadsheet is used in the 100 field,
                     regardless of that person's role in creating the resource -->
                     <marc:datafield tag="100" ind1="1" ind2=" ">
@@ -565,7 +610,7 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
-                    
+
                     <!-- This portion of the template looks at all of the 245 subfields in order
                     to determine how subfield a should be punctuated -->
                     <xsl:variable name="field245a_punct">
@@ -685,7 +730,7 @@
                             </xsl:choose>
                         </marc:subfield>
                     </marc:datafield>
-                    
+
                     <!-- Publication info is included here -->
                     <marc:datafield tag="264" ind1=" " ind2="1">
                         <marc:subfield code="a">
@@ -696,12 +741,12 @@
                             <xsl:value-of select="$Publication_Year"/>
                         </marc:subfield>
                     </marc:datafield>
-                    
+
                     <!-- The 300 field currently just includes a subfield a "volume" -->
                     <marc:datafield tag="300" ind1=" " ind2=" ">
                         <marc:subfield code="a">volume</marc:subfield>
                     </marc:datafield>
-                    
+
                     <!-- Values in the 33x fields are for books -->
                     <marc:datafield tag="336" ind1=" " ind2=" ">
                         <marc:subfield code="a">text</marc:subfield>
@@ -718,7 +763,7 @@
                         <marc:subfield code="b">nc</marc:subfield>
                         <marc:subfield code="2">rdacarrier</marc:subfield>
                     </marc:datafield>
-                    
+
                     <!-- Here is a 500 note thta includes the titles as they appeared
                     on the spreadsheet. For set records, this note is omitted. -->
                     <marc:datafield tag="500" ind1=" " ind2=" ">
@@ -732,7 +777,7 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </marc:datafield>
-                    
+
                     <!-- Binding note 500 field -->
                     <marc:datafield tag="500" ind1=" " ind2=" ">
                         <marc:subfield code="a">
@@ -744,7 +789,7 @@
                             </xsl:choose>
                         </marc:subfield>
                     </marc:datafield>
-                    
+
                     <!-- Any other notes left on the spreadsheet are included here -->
                     <marc:datafield tag="500" ind1=" " ind2=" ">
                         <marc:subfield code="a">
@@ -857,9 +902,19 @@
                     <!-- The 932 field lists the name of the archival collection -->
                     <marc:datafield tag="932" ind1="2" ind2=" ">
                         <marc:subfield code="a">
-                            <xsl:value-of select="$Collection"/>
+                            <xsl:choose>
+                                <xsl:when test="$Collection != ''">
+                                    <xsl:value-of select="$Collection"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
                         </marc:subfield>
-                        <marc:subfield code="9">LOCAL</marc:subfield>
+                        <marc:subfield code="9">
+                            <xsl:choose>
+                                <xsl:when test="$Collection != ''">LOCAL</xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
                     </marc:datafield>
 
                     <!-- The 937 field lists the name of the donor -->
@@ -884,6 +939,7 @@
                         <marc:subfield code="c">
                             <xsl:value-of select="$Location"/>
                         </marc:subfield>
+
                         <marc:subfield code="j">
                             <xsl:choose>
                                 <xsl:when test="$Description != ''">
