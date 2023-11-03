@@ -87,6 +87,8 @@
                 <xsl:variable name="Description" select="Description"/>
                 <xsl:variable name="Chronology" select="Chronology"/>
                 <xsl:variable name="Enumeration" select="Enumeration"/>
+                <xsl:variable name="EnumerationA" select="EnumerationA"/>
+                <xsl:variable name="EnumerationB" select="EnumerationB"/>
                 <xsl:variable name="Location" select="Location"/>
 
                 <!-- Here begins the tempate for the MARC record -->
@@ -960,6 +962,22 @@
                             <xsl:choose>
                                 <xsl:when test="$Enumeration != ''">
                                     <xsl:value-of select="$Enumeration"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="m">
+                            <xsl:choose>
+                                <xsl:when test="$EnumerationA != ''">
+                                    <xsl:value-of select="$EnumerationA"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="n">
+                            <xsl:choose>
+                                <xsl:when test="$EnumerationB != ''">
+                                    <xsl:value-of select="$EnumerationB"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
