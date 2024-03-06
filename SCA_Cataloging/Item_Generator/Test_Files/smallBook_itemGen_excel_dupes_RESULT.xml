@@ -1,0 +1,3948 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 1-2</subfield>
+   <subfield code="f">31254803179338</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 3-4</subfield>
+   <subfield code="f">31254803179148</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 5-6</subfield>
+   <subfield code="f">31254803179577</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 7-8</subfield>
+   <subfield code="f">31254803179395</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 9-10</subfield>
+   <subfield code="f">31254803179452</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 11-12</subfield>
+   <subfield code="f">31254803179510</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990301026290306576</controlfield>
+   <controlfield tag="008">810814s1795 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030102629UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07669433</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910620209206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301026290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">B2042</subfield>
+      <subfield code="b">.A2 1795</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Helvétius,</subfield>
+      <subfield code="d">1715-1771.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Œuvres completes d'Helvétius.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">P. Didot,</subfield>
+      <subfield code="c">1795.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">14 v. in 7 ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030102629</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">B2042 .A2 1795</subfield>
+   <subfield code="e">t. 13-14</subfield>
+   <subfield code="f">31254803179627</subfield>
+   <subfield code="j">31254803017272</subfield>
+   <subfield code="h">Tray 3</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200205Ia 4500</leader>
+   <controlfield tag="001">990221940180306576</controlfield>
+   <controlfield tag="008">851004r19841811nyu 000|0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">12636418</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022194018UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)45578871</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910795553406561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990221940180306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BJ1641</subfield>
+      <subfield code="b">.R2 1984</subfield>
+   </datafield>
+   <datafield tag="100" ind1="0" ind2=" ">
+      <subfield code="a">R. R.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The good boy's soliloquy :</subfield>
+      <subfield code="b">containing his parents' instructions relative to his disposition and
+                manners /</subfield>
+      <subfield code="c">by the author of the Invited alphabet.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Pierpont Morgan Library,</subfield>
+      <subfield code="c">c1984.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">16 p., [16] p. of plates :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">12 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Facsim. of: London : W. Darton, 1811.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children</subfield>
+      <subfield code="x">Conduct of life.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022194018</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">BJ1641 .R2 1984</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803177704</subfield>
+   <subfield code="j">31254803017330</subfield>
+   <subfield code="h">Tray 4</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ia 4500</leader>
+   <controlfield tag="001">990305091030306576</controlfield>
+   <controlfield tag="008">890104s1823 stk 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030509103UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)18965973</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910798231006561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990305091030306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BR50</subfield>
+      <subfield code="b">.T423 1823</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Theological gems.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Edinburgh :</subfield>
+      <subfield code="b">Published by William Oliphant and sold by M. Ogle, Chalmers &amp;
+                Collins and J. Hewit, Glasgow ...,</subfield>
+      <subfield code="c">1823.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xi, 14-444 p. :</subfield>
+      <subfield code="b">1 port. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">J. Collie, Printer, Edinburgh.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Frontispiece: portrait drawing of Revd. Cesar Malan.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Brief essays of Christian thought by various authors.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">On t.p.: "The lips of knowledge are a precious
+                jewel.--Solomon."</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Christianity.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Christian literature, English.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Spiritual life.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Theology.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030509103</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">BR50 .T423 1823</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254007494962</subfield>
+   <subfield code="j">31254803017397</subfield>
+   <subfield code="h">Tray 5</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200253Ia 4500</leader>
+   <controlfield tag="001">990301293980306576</controlfield>
+   <controlfield tag="008">810925s1827 it 000|0 ita d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)030129398UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)07792722</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910884848806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990301293980306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="041" ind1="1" ind2=" ">
+      <subfield code="a">itafre</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BT1100</subfield>
+      <subfield code="b">.A216 1827</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Abbadie, Jacques,</subfield>
+      <subfield code="d">1654-1727.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">La verita della religione cristiana /</subfield>
+      <subfield code="c">trattato di Giacomo Abbadie.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Seconda edizione italiana</subfield>
+      <subfield code="b">con note.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Milano :</subfield>
+      <subfield code="b">Da Placido Maria Visaj,</subfield>
+      <subfield code="c">1827.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">v. :</subfield>
+      <subfield code="b">port. ;</subfield>
+      <subfield code="c">16 cm.</subfield>
+   </datafield>
+   <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Antologia : morale e religiosa ;</subfield>
+      <subfield code="v">t. 34</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Apologetics</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">17th century.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Apologetics</subfield>
+      <subfield code="v">Early works to 1800.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">030129398</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">BT1100 .A216 1827</subfield>
+   <subfield code="e">t. 1</subfield>
+   <subfield code="f">31254803023460</subfield>
+   <subfield code="j">31254803017579</subfield>
+   <subfield code="h">Tray 8</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200265Ia 4500</leader>
+   <controlfield tag="001">990217290530306576</controlfield>
+   <controlfield tag="005">20060317103430.0</controlfield>
+   <controlfield tag="008">851015r18601857tnu 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)021729053UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)12674529</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910793355906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990217290530306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">ITC</subfield>
+      <subfield code="c">ITC</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BT121</subfield>
+      <subfield code="b">.A7 1859</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">231.3</subfield>
+      <subfield code="b">A791t, 1857</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Arthur, William,</subfield>
+      <subfield code="d">1819-1901.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The tongue of fire, or, The true power of Christianity /</subfield>
+      <subfield code="c">by William Arthur ; edited by Thomas O. Summers.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Nashville, Tenn. :</subfield>
+      <subfield code="b">Southern Methodist Publishing House,</subfield>
+      <subfield code="c">1860.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">376 p. ;</subfield>
+      <subfield code="c">16 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">First published in this edition 1857.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Holy Spirit.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Summers, Thomas O.</subfield>
+      <subfield code="q">(Thomas Osmond),</subfield>
+      <subfield code="d">1812-1882.</subfield>
+   </datafield>
+   <datafield tag="740" ind1="4" ind2=" ">
+      <subfield code="a">The tongue of fire.</subfield>
+   </datafield>
+   <datafield tag="740" ind1="4" ind2=" ">
+      <subfield code="a">The true power of Christianity.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">021729053</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">BT121 .A7 1859</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803178801</subfield>
+   <subfield code="j">31254803017512</subfield>
+   <subfield code="h">Tray 7</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader> cam 2200433 a 4500</leader>
+   <controlfield tag="001">990267609230306576</controlfield>
+   <controlfield tag="005">20190409104215.0</controlfield>
+   <controlfield tag="008">090824s1835 paua j 000 1 eng </controlfield>
+   <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">2009484329</subfield>
+   </datafield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">78936489</subfield>
+      <subfield code="a">123017038</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026760923UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)15738650</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910251625106561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990267609230306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">dcrmb</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">IDI</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">ICW</subfield>
+      <subfield code="d">MFM</subfield>
+   </datafield>
+   <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">FDAA</subfield>
+   </datafield>
+   <datafield tag="050" ind1="0" ind2="0">
+      <subfield code="a">PZ6</subfield>
+      <subfield code="b">.R27 1835</subfield>
+   </datafield>
+   <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">BV4571</subfield>
+      <subfield code="b">.R44 1835 Cassel</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="4">
+      <subfield code="a">The refuge, or, Story of Archibald Thompson /</subfield>
+      <subfield code="c">written for the American Sunday School Union and revised by the
+                Committee of Publication.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Refuge</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Story of Archibald Thompson</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Philadelphia :</subfield>
+      <subfield code="b">American Sunday-School Union, no. 146 Chestnut Street,</subfield>
+      <subfield code="c">[1835]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">78 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">The story of Archibald Thompson continues in The infidel class,
+                published by the ASSU, 1835.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Copyright 1835.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"The following is an accurate account of the House of Refuge in
+                Philadelphia, illustrated with cuts, sketched from personal observation." -- Note,
+                p. 5.</subfield>
+   </datafield>
+   <datafield tag="561" ind1=" " ind2=" ">
+      <subfield code="a">LC copy is a copyright deposit: No. 22. Deposited for copyright,
+                Feby. 21, 1835.</subfield>
+      <subfield code="5">DLC</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">House of Refuge (Philadelphia, Pa.)</subfield>
+      <subfield code="v">Juvenile fiction.</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="7">
+      <subfield code="a">House of Refuge (Philadelphia, Pa.)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00521560</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="0">
+      <subfield code="a">Sunday school literature</subfield>
+      <subfield code="y">1835.</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Juvenile literature</subfield>
+      <subfield code="y">1835.</subfield>
+      <subfield code="2">rbgenr</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Juvenile works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411637</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Sunday school literature.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01726754</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">American Sunday-School Union.</subfield>
+      <subfield code="b">Committee of Publication.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">American Sunday-School Union,</subfield>
+      <subfield code="e">publisher.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Todd A. Herring Collection (Mississippi State University.
+                Libraries)</subfield>
+      <subfield code="5">MsSM</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026760923</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">BV4571 .R44 1835</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254027345673</subfield>
+   <subfield code="j">31254803017694</subfield>
+   <subfield code="h">Tray 10</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200217 a 4500</leader>
+   <controlfield tag="001">990269341360306576</controlfield>
+   <controlfield tag="005">20060501093026.0</controlfield>
+   <controlfield tag="008">911017s1676 fra 000|0 fr d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026934136UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)24591878</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910838482706561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990269341360306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BX1347</subfield>
+      <subfield code="b">.P34 1676</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Pageau,</subfield>
+      <subfield code="c">abbé.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Mémoires des intrigues de la cour de Rome, depuis l'année 1669
+                jusques en 1676.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">E. Michallet,</subfield>
+      <subfield code="c">1676.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">255 p. ;</subfield>
+      <subfield code="c">19 cm.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Papal courts</subfield>
+      <subfield code="x">Early works to 1800.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Papacy</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">1566-1799.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Clement</subfield>
+      <subfield code="b">X,</subfield>
+      <subfield code="c">Pope,</subfield>
+      <subfield code="d">1590-1676.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Altieri, Paluzzo,</subfield>
+      <subfield code="c">Cardinal,</subfield>
+      <subfield code="d">1623-1698.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026934136</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">BX1347 .P34 1676</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803023403</subfield>
+   <subfield code="j">31254803017751</subfield>
+   <subfield code="h">Tray 11</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200241Ii 4500</leader>
+   <controlfield tag="001">990295838740306576</controlfield>
+   <controlfield tag="008">800225s1798 enka 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)029583874UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)06019624</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910837085906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990295838740306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">SBM</subfield>
+      <subfield code="c">SBM</subfield>
+      <subfield code="d">m.c.</subfield>
+      <subfield code="d">SBM</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DD179</subfield>
+      <subfield code="b">.R6 1798</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Robertson, William,</subfield>
+      <subfield code="d">1721-1793.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The history of the reign of Emperor Charles V /</subfield>
+      <subfield code="c">By William Robertson.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">9th ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Cadell &amp;</subfield>
+      <subfield code="c">1798.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">4 v. :</subfield>
+      <subfield code="b">fronts. ;</subfield>
+      <subfield code="c">17 cm.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Europe</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">1492-1648.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Charles</subfield>
+      <subfield code="b">V,</subfield>
+      <subfield code="c">Holy Roman Emperor,</subfield>
+      <subfield code="d">1500-1558</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Holy Roman Empire</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Charles V, 1519-1556.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">029583874</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">DD179 .R6 1798</subfield>
+   <subfield code="e">v. 1</subfield>
+   <subfield code="f">31254803178744</subfield>
+   <subfield code="j">31254803017611</subfield>
+   <subfield code="h">Tray 21</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200241Ii 4500</leader>
+   <controlfield tag="001">990295838740306576</controlfield>
+   <controlfield tag="008">800225s1798 enka 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)029583874UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)06019624</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910837085906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990295838740306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">SBM</subfield>
+      <subfield code="c">SBM</subfield>
+      <subfield code="d">m.c.</subfield>
+      <subfield code="d">SBM</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DD179</subfield>
+      <subfield code="b">.R6 1798</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Robertson, William,</subfield>
+      <subfield code="d">1721-1793.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The history of the reign of Emperor Charles V /</subfield>
+      <subfield code="c">By William Robertson.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">9th ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Cadell &amp;</subfield>
+      <subfield code="c">1798.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">4 v. :</subfield>
+      <subfield code="b">fronts. ;</subfield>
+      <subfield code="c">17 cm.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Europe</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">1492-1648.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Charles</subfield>
+      <subfield code="b">V,</subfield>
+      <subfield code="c">Holy Roman Emperor,</subfield>
+      <subfield code="d">1500-1558</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Holy Roman Empire</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Charles V, 1519-1556.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">029583874</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">DD179 .R6 1798</subfield>
+   <subfield code="e">v. 2</subfield>
+   <subfield code="f">31254803178686</subfield>
+   <subfield code="j">31254803017611</subfield>
+   <subfield code="h">Tray 21</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200241Ii 4500</leader>
+   <controlfield tag="001">990295838740306576</controlfield>
+   <controlfield tag="008">800225s1798 enka 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)029583874UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)06019624</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910837085906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990295838740306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">SBM</subfield>
+      <subfield code="c">SBM</subfield>
+      <subfield code="d">m.c.</subfield>
+      <subfield code="d">SBM</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DD179</subfield>
+      <subfield code="b">.R6 1798</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Robertson, William,</subfield>
+      <subfield code="d">1721-1793.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The history of the reign of Emperor Charles V /</subfield>
+      <subfield code="c">By William Robertson.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">9th ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Cadell &amp;</subfield>
+      <subfield code="c">1798.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">4 v. :</subfield>
+      <subfield code="b">fronts. ;</subfield>
+      <subfield code="c">17 cm.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Europe</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">1492-1648.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Charles</subfield>
+      <subfield code="b">V,</subfield>
+      <subfield code="c">Holy Roman Emperor,</subfield>
+      <subfield code="d">1500-1558</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Holy Roman Empire</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Charles V, 1519-1556.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">029583874</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">DD179 .R6 1798</subfield>
+   <subfield code="e">v. 3</subfield>
+   <subfield code="f">31254803178629</subfield>
+   <subfield code="j">31254803017611</subfield>
+   <subfield code="h">Tray 21</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200193K 4500</leader>
+   <controlfield tag="001">990278921500306576</controlfield>
+   <controlfield tag="008">861107s1663 enk 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027892150UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)14685762</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910670837806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990278921500306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DR439</subfield>
+      <subfield code="b">.M3</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Marsh, Henry,</subfield>
+      <subfield code="d">fl. 1663-1664.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="2">
+      <subfield code="a">A new survey of the Turkish empire and government,</subfield>
+      <subfield code="b">in a brief history deduced to this present time and the reign of the
+                now Grand Seignior, Mahomet the IV, the present XIV, emperor.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">London,</subfield>
+      <subfield code="b">Printed for Henry Marsh,</subfield>
+      <subfield code="c">1663.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">76, 108 p.</subfield>
+      <subfield code="b">illus., port.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Turkey</subfield>
+      <subfield code="x">History.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027892150</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">DR439 .M3</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803181474</subfield>
+   <subfield code="j">31254803017553</subfield>
+   <subfield code="h">Tray 22</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200253I 4500</leader>
+   <controlfield tag="001">990243987240306576</controlfield>
+   <controlfield tag="005">20060727091529.0</controlfield>
+   <controlfield tag="008">751016s1813 pau 000|0 eng </controlfield>
+   <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a">a 32000669</subfield>
+   </datafield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">1708656</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)024398724UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)124077585</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910713519106561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990243987240306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DZM</subfield>
+      <subfield code="d">m.c.</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">E164</subfield>
+      <subfield code="b">.M44 1813</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">917.3</subfield>
+      <subfield code="b">M523s</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Melish, John,</subfield>
+      <subfield code="d">1771-1822.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="2">
+      <subfield code="a">A statistical account of the United States, :</subfield>
+      <subfield code="b">with topographical tables of the counties, towns, population, etc.
+                From the census of 1810. Intended as an accompaniment to the portable Map of the
+                United States. /</subfield>
+      <subfield code="c">By John Melish.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Philadelphia, :</subfield>
+      <subfield code="b">Printed by G. Palmer,</subfield>
+      <subfield code="c">1813.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">35 (i.e. 37) [1] p. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Page numbers 7-8 are repeated.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Mutilated map mounted on inside of front cover.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Recent publications by John Melish" : p. [38]</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">Description and travel.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">024398724</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">E164.M44 1813</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803176508</subfield>
+   <subfield code="j">31254803017553</subfield>
+   <subfield code="h">Tray 22</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200229Ia 4500</leader>
+   <controlfield tag="001">990200638410306576</controlfield>
+   <controlfield tag="008">830203s1882 xx 000|0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">9185664</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)020063841UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)09185643</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910613691506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990200638410306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">F319.S2</subfield>
+      <subfield code="b">S42</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">St. Augustine.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">[S.l. :</subfield>
+      <subfield code="b">s.n.],</subfield>
+      <subfield code="c">1882?</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">4 p., [12] plates :</subfield>
+      <subfield code="b">chiefly ill. ;</subfield>
+      <subfield code="c">11 x 15 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Black and white photographs of the old city supposedly from negatives
+                of the Albertype Company.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Cover-title.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Saint Augustine (Fla.)</subfield>
+      <subfield code="v">Pictorial works.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Albertype Company.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">020063841</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">FLAU</subfield>
+   <subfield code="d">F319.S2 S42</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254003913510</subfield>
+   <subfield code="j">31254803017140</subfield>
+   <subfield code="h">Tray 23</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200229K 4500</leader>
+   <controlfield tag="001">990216594490306576</controlfield>
+   <controlfield tag="008">900220s1876 alub 001|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)021659449UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)21094654</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910827113206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990216594490306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">G3971.P3</subfield>
+      <subfield code="b">1876 R36</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Rand, McNally &amp; Co.'s indexed map of Alabama :</subfield>
+      <subfield code="b">showing the railroads in the state, and the express company doing
+                business over each, also, counties, lakes &amp; rivers together with every post
+                office, railroad station or town, carefully indexed, referring to the exact location
+                where each may be found on the map.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Chicago ;</subfield>
+      <subfield code="c">[1876]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">19 p. ;</subfield>
+      <subfield code="b">fold. map</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Alabama</subfield>
+      <subfield code="v">Maps.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Railroads</subfield>
+      <subfield code="z">Alabama</subfield>
+      <subfield code="v">Maps.</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Maps.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Maps.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Rand McNally and Company.</subfield>
+   </datafield>
+   <datafield tag="740" ind1="0" ind2=" ">
+      <subfield code="a">Indexed map of Alabama.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">021659449</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">G3971.P3 1876 R36</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803178504</subfield>
+   <subfield code="j">31254803017140</subfield>
+   <subfield code="h">Tray 23</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 1</subfield>
+   <subfield code="f">31254803179262</subfield>
+   <subfield code="j">31254803017199</subfield>
+   <subfield code="h">Tray 29</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 2</subfield>
+   <subfield code="f">31254803179569</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 3</subfield>
+   <subfield code="f">31254803179502</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 4</subfield>
+   <subfield code="f">31254803179445</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 5</subfield>
+   <subfield code="f">31254803179387</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 6</subfield>
+   <subfield code="f">31254803179320</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 7</subfield>
+   <subfield code="f">31254803179791</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 8</subfield>
+   <subfield code="f">31254803179734</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 9</subfield>
+   <subfield code="f">31254803179676</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 10</subfield>
+   <subfield code="f">31254803179619</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 11</subfield>
+   <subfield code="f">31254803179551</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200277Ii 4500</leader>
+   <controlfield tag="001">990288021630306576</controlfield>
+   <controlfield tag="005">20100503135146.0</controlfield>
+   <controlfield tag="008">781002m17481749stk 000|0 lated</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028802163UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04264782</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910808845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990288021630306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">InU</subfield>
+      <subfield code="c">FDA</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PA6278</subfield>
+      <subfield code="b">.A2 1748</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Cicero, Marcus Tullius.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Works.</subfield>
+      <subfield code="f">1749</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">M. Tullii Ciceronis opera quae supersunt omnia :</subfield>
+      <subfield code="b">ad fidem optimarum editionum diligenter expressa.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasguae :</subfield>
+      <subfield code="b">In aedibus academicis, excudebant Rob. et And. Foulis,</subfield>
+      <subfield code="c">1748-49, [v.1, 1749].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">20 v. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Each volume has separate title page. Only Vol. 1 has complete title
+                page for set.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Vol. 1 edited by G. Rosse; Vol. 2-10, 12-20 edited by J. Olivet; Vol.
+                11 edited by Z. Pearce.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">v. 1-3. Rhetoricorum.--v. 4-10. Orationum.--v. 11-15.
+                Philosophicorum.-- v. 16-20. Epistolarum.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Olivet, Pierre-Joseph Thoulier,</subfield>
+      <subfield code="c">abbé d',</subfield>
+      <subfield code="d">1682-1768.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Pearce, Zachary,</subfield>
+      <subfield code="d">1690-1774.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Rosse, George.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028802163</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PA6278 .A2 1748</subfield>
+   <subfield code="e">v. 12</subfield>
+   <subfield code="f">31254803179494</subfield>
+   <subfield code="j">31254803017256</subfield>
+   <subfield code="h">Tray 30</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>01313cam 2200301I 4500</leader>
+   <controlfield tag="001">990265469070306576</controlfield>
+   <controlfield tag="008">781204r18961894meu 000|0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">5332068</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026546907UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04415448</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910744784906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990265469070306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CLE</subfield>
+      <subfield code="c">CLE</subfield>
+      <subfield code="d">AZU</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield tag="041" ind1="1" ind2=" ">
+      <subfield code="a">eng</subfield>
+      <subfield code="h">fro</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1425.A2</subfield>
+      <subfield code="b">M6 1896</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1425.A35</subfield>
+      <subfield code="b">E5 1896</subfield>
+   </datafield>
+   <datafield tag="130" ind1="0" ind2=" ">
+      <subfield code="a">Ami et Amiles.</subfield>
+      <subfield code="l">English.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The story of Amis &amp; Amile,</subfield>
+      <subfield code="c">done out of the ancient French into English by William
+                Morris.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Portland, Me.,</subfield>
+      <subfield code="b">T.B. Mosher,</subfield>
+      <subfield code="c">1896.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">46 p.</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Four hundred and twenty-five copies of this book (second edition)
+                have been printed on Japan vellum, and type distributed, in the month of December,
+                A.D. MDCCCXCVI, at the press of Geoge D. Loring, Portland, Maine."</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">First edition, August, 1896. Hatch 26.</subfield>
+      <subfield code="5">FTS</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Title in brown and black; head and tail pieces.</subfield>
+      <subfield code="5">FTS</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Four hundred and twenty-five copies of this book have been printed
+                on Japan vellum, and type distributed, in the month of August, A.D. MDCCCXCVI, at
+                the press of Geoge D. Loring, Portland, Maine."</subfield>
+      <subfield code="5">FTS</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Originally issued by William Morris at the Kelmscott press during
+                March, 1894, in a limited edition of 500 copies. Reprinted in Old French romances,
+                edited by Joseph Jacobs (London, 1896)."</subfield>
+      <subfield code="5">FTS</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Morris, William,</subfield>
+      <subfield code="d">1834-1896,</subfield>
+      <subfield code="e">tr.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Morris, William,</subfield>
+      <subfield code="d">1834-1896.</subfield>
+   </datafield>
+   <datafield tag="730" ind1="0" ind2=" ">
+      <subfield code="a">Amis and Amiles.</subfield>
+      <subfield code="l">English.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026546907</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1425.A35 E5 1896</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254002953863</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200193K 4500</leader>
+   <controlfield tag="001">990242534950306576</controlfield>
+   <controlfield tag="005">20060509102921.0</controlfield>
+   <controlfield tag="008">860912s1611 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)024253495UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)14211552</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910762893306561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990242534950306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CLU</subfield>
+      <subfield code="c">CLU</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1609</subfield>
+      <subfield code="b">.D44 1611</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">841</subfield>
+      <subfield code="b">D472, R217</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Desportes, Philippe,</subfield>
+      <subfield code="d">1546-1606.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Oevvres ... /</subfield>
+      <subfield code="c">reueues et corrigées.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Roven, :</subfield>
+      <subfield code="b">Impr. de R. Du Petit Val,</subfield>
+      <subfield code="c">1611.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">675, [42] p. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">024253495</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1609 .D44 1611</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803185301</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200193K 4500</leader>
+   <controlfield tag="001">990221883130306576</controlfield>
+   <controlfield tag="008">850925m17401750ne 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022188313UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)12599305</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910795550806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990221883130306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1791</subfield>
+      <subfield code="b">.A1 1740</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Corneille, Thomas,</subfield>
+      <subfield code="d">1625-1709.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="3">
+      <subfield code="a">Le théâtre de T. Corneille.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Nouvelle éd.,</subfield>
+      <subfield code="b">revúe, augmentée des pieces dont l'Avis au lecteur fait mention,
+                &amp; enrichie de taillesdouces.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Amsterdam,</subfield>
+      <subfield code="b">H. Desbordes,</subfield>
+      <subfield code="c">1740-1750.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">5 v.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022188313</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1791 .A1 1740</subfield>
+   <subfield code="e">t.1</subfield>
+   <subfield code="f">31254803185541</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200193K 4500</leader>
+   <controlfield tag="001">990221883130306576</controlfield>
+   <controlfield tag="008">850925m17401750ne 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022188313UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)12599305</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910795550806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990221883130306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1791</subfield>
+      <subfield code="b">.A1 1740</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Corneille, Thomas,</subfield>
+      <subfield code="d">1625-1709.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="3">
+      <subfield code="a">Le théâtre de T. Corneille.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Nouvelle éd.,</subfield>
+      <subfield code="b">revúe, augmentée des pieces dont l'Avis au lecteur fait mention,
+                &amp; enrichie de taillesdouces.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Amsterdam,</subfield>
+      <subfield code="b">H. Desbordes,</subfield>
+      <subfield code="c">1740-1750.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">5 v.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022188313</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1791 .A1 1740</subfield>
+   <subfield code="e">t.2</subfield>
+   <subfield code="f">31254803185483</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200193K 4500</leader>
+   <controlfield tag="001">990221883130306576</controlfield>
+   <controlfield tag="008">850925m17401750ne 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022188313UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)12599305</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910795550806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990221883130306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1791</subfield>
+      <subfield code="b">.A1 1740</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Corneille, Thomas,</subfield>
+      <subfield code="d">1625-1709.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="3">
+      <subfield code="a">Le théâtre de T. Corneille.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Nouvelle éd.,</subfield>
+      <subfield code="b">revúe, augmentée des pieces dont l'Avis au lecteur fait mention,
+                &amp; enrichie de taillesdouces.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Amsterdam,</subfield>
+      <subfield code="b">H. Desbordes,</subfield>
+      <subfield code="c">1740-1750.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">5 v.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022188313</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1791 .A1 1740</subfield>
+   <subfield code="e">t.3</subfield>
+   <subfield code="f">31254803185426</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200193K 4500</leader>
+   <controlfield tag="001">990221883130306576</controlfield>
+   <controlfield tag="008">850925m17401750ne 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022188313UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)12599305</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910795550806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990221883130306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1791</subfield>
+      <subfield code="b">.A1 1740</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Corneille, Thomas,</subfield>
+      <subfield code="d">1625-1709.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="3">
+      <subfield code="a">Le théâtre de T. Corneille.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Nouvelle éd.,</subfield>
+      <subfield code="b">revúe, augmentée des pieces dont l'Avis au lecteur fait mention,
+                &amp; enrichie de taillesdouces.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Amsterdam,</subfield>
+      <subfield code="b">H. Desbordes,</subfield>
+      <subfield code="c">1740-1750.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">5 v.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022188313</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1791 .A1 1740</subfield>
+   <subfield code="e">t.4</subfield>
+   <subfield code="f">31254803185368</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000cam 2200193K 4500</leader>
+   <controlfield tag="001">990221883130306576</controlfield>
+   <controlfield tag="008">850925m17401750ne 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022188313UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)12599305</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910795550806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990221883130306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ1791</subfield>
+      <subfield code="b">.A1 1740</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Corneille, Thomas,</subfield>
+      <subfield code="d">1625-1709.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="3">
+      <subfield code="a">Le théâtre de T. Corneille.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Nouvelle éd.,</subfield>
+      <subfield code="b">revúe, augmentée des pieces dont l'Avis au lecteur fait mention,
+                &amp; enrichie de taillesdouces.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Amsterdam,</subfield>
+      <subfield code="b">H. Desbordes,</subfield>
+      <subfield code="c">1740-1750.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">5 v.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022188313</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ1791 .A1 1740</subfield>
+   <subfield code="e">t.5</subfield>
+   <subfield code="f">31254803185608</subfield>
+   <subfield code="j">31254802963096</subfield>
+   <subfield code="h">Tray 49</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200193K 4500</leader>
+   <controlfield tag="001">990232712920306576</controlfield>
+   <controlfield tag="005">20060519095557.0</controlfield>
+   <controlfield tag="008">901219s1627 it a 000|0 ita d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)023271292UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)22873364</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910714563306561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990232712920306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ4605.A83</subfield>
+      <subfield code="b">L83 1627</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Avanzi, Giovanni Maria.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">La Lucciola, :</subfield>
+      <subfield code="b">poema.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Padova, :</subfield>
+      <subfield code="b">G.B. Martini,</subfield>
+      <subfield code="c">1627.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">[22], 213 p. :</subfield>
+      <subfield code="b">illus.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Engraved t.p.: title within ornamental border.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">The preliminary pages include miscellaneous verse by the
+                author.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Errata: recto of leaf at end.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Edited by Carlo Avanzi.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Avanzi, Carlo.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">023271292</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PQ4605.A83 L83 1627</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803023544</subfield>
+   <subfield code="j">31254802962973</subfield>
+   <subfield code="h">Tray 51</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader> cam 2200349Ii 4500</leader>
+   <controlfield tag="001">990274437320306576</controlfield>
+   <controlfield tag="005">20190409110455.0</controlfield>
+   <controlfield tag="008">940810s1830 enkaf j 000 1 eng d</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">001569198</subfield>
+      <subfield code="2">Uk</subfield>
+   </datafield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">1063082906</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027443732UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)30928599</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910731002006561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990274437320306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CLU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">rda</subfield>
+      <subfield code="c">CLU</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">UKMGB</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">FDAA</subfield>
+   </datafield>
+   <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">PZ5</subfield>
+      <subfield code="b">.P752 1830</subfield>
+   </datafield>
+   <datafield tag="050" ind1=" " ind2=" ">
+      <subfield code="a">PR1175.3</subfield>
+      <subfield code="b">.P64 1830</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="4">
+      <subfield code="a">The poetic primer :</subfield>
+      <subfield code="b">a circlet of little rhymes for little readers /</subfield>
+      <subfield code="c">by Clara Hall ... ; with fine engravings.</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Edward Lacey, 76, St. Paul's Church Yard,</subfield>
+      <subfield code="c">[1830?]</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="3">
+      <subfield code="a">[([London] :</subfield>
+      <subfield code="b">Printed by W.J. Sears, 7, New Court, Bow Lane, Cheapside)</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">iv, 72 pages, 4 unnumbered leaves of plates :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">15 cm</subfield>
+   </datafield>
+   <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Wood engravings: title vignette, [6] ills. on [3] plates.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Frontispiece engraved in steel by W. C. Edwards after painting by H.
+                Mosses.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Approximate date from Osborne Coll., cited below.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Wood engravings: title vignette, [6] ills. on [3] plates.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Frontispiece engraved in steel by W.C. Edwards after painting by H.
+                Mosses.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Approximate date from Osborne Coll., cited below.</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Me and my dog -- Song -- The voice of God / by Mrs. Hemans -- Little
+                girl's wish / by Charles Swain -- The cottage door / by M.M.M. -- Spring / by Mary
+                Howitt -- The two ears of corn -- The moth -- Lines on a young lady weeping / by
+                Miss Roberts -- Wandering Mary / by D. Carey -- Mottos for albums / by James
+                Montgomery -- The step-mother -- On two infants, who died at the same time in the
+                hooping cough -- The dying Negro / by the late Rev. J. Lawson of Calcutta --
+                Sister's love -- The first lamb -- Fly away, ladybird / by Mrs. S.C. Hall -- To a
+                lady weeping over her departed child -- The grave of the pious cottager / by James
+                Edmeston -- Invitation from a little to a very little lady -- For the album of a
+                very little child -- The lily of the valley and the anemone -- My sister's garden --
+                On visiting the sylvan cottage of Mrs. H. More / by Anna Seward -- The bird's nest
+                -- The cat and dog / by Mrs. S.C. Hall -- Affecting history of a wax doll -- The
+                carrier pigeon -- A reflection on the loss of the Comet steam packet -- The
+                butterfly and the two scorpions.</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">[cont.] Lines, addressed to a juvenile son, on presenting him with a
+                watch as a New Year's present / by the Rev. Dr. Booker -- Transmigration, to a young
+                lady, who said she "wished she was a flower" -- The dancing bear / by Miss Webb --
+                To Emma / by the Rev. John Horseman -- Forget me not -- Infant naturalists -- The
+                youthful king, suggested by a picture of Edward the Sixth in his royal
+                robes.</subfield>
+   </datafield>
+   <datafield tag="510" ind1="4" ind2=" ">
+      <subfield code="a">Osborne Coll.,</subfield>
+      <subfield code="c">page 64</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children's poems.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hall, Clara.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027443732</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">PR1175.3 .P64 1830</subfield>
+   <subfield code="e">c. 1</subfield>
+   <subfield code="f">31254027353594</subfield>
+   <subfield code="j">31254803027990</subfield>
+   <subfield code="h">Tray 54</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader> cam 2200349Ii 4500</leader>
+   <controlfield tag="001">990274437320306576</controlfield>
+   <controlfield tag="005">20190409110455.0</controlfield>
+   <controlfield tag="008">940810s1830 enkaf j 000 1 eng d</controlfield>
+   <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="a">001569198</subfield>
+      <subfield code="2">Uk</subfield>
+   </datafield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">1063082906</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027443732UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)30928599</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910731002006561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990274437320306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">CLU</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">rda</subfield>
+      <subfield code="c">CLU</subfield>
+      <subfield code="d">OCL</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">UKMGB</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">FDAA</subfield>
+   </datafield>
+   <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">PZ5</subfield>
+      <subfield code="b">.P752 1830</subfield>
+   </datafield>
+   <datafield tag="050" ind1=" " ind2=" ">
+      <subfield code="a">PR1175.3</subfield>
+      <subfield code="b">.P64 1830</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="4">
+      <subfield code="a">The poetic primer :</subfield>
+      <subfield code="b">a circlet of little rhymes for little readers /</subfield>
+      <subfield code="c">by Clara Hall ... ; with fine engravings.</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Edward Lacey, 76, St. Paul's Church Yard,</subfield>
+      <subfield code="c">[1830?]</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="3">
+      <subfield code="a">[([London] :</subfield>
+      <subfield code="b">Printed by W.J. Sears, 7, New Court, Bow Lane, Cheapside)</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">iv, 72 pages, 4 unnumbered leaves of plates :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">15 cm</subfield>
+   </datafield>
+   <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Wood engravings: title vignette, [6] ills. on [3] plates.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Frontispiece engraved in steel by W. C. Edwards after painting by H.
+                Mosses.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Approximate date from Osborne Coll., cited below.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Wood engravings: title vignette, [6] ills. on [3] plates.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Frontispiece engraved in steel by W.C. Edwards after painting by H.
+                Mosses.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Approximate date from Osborne Coll., cited below.</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Me and my dog -- Song -- The voice of God / by Mrs. Hemans -- Little
+                girl's wish / by Charles Swain -- The cottage door / by M.M.M. -- Spring / by Mary
+                Howitt -- The two ears of corn -- The moth -- Lines on a young lady weeping / by
+                Miss Roberts -- Wandering Mary / by D. Carey -- Mottos for albums / by James
+                Montgomery -- The step-mother -- On two infants, who died at the same time in the
+                hooping cough -- The dying Negro / by the late Rev. J. Lawson of Calcutta --
+                Sister's love -- The first lamb -- Fly away, ladybird / by Mrs. S.C. Hall -- To a
+                lady weeping over her departed child -- The grave of the pious cottager / by James
+                Edmeston -- Invitation from a little to a very little lady -- For the album of a
+                very little child -- The lily of the valley and the anemone -- My sister's garden --
+                On visiting the sylvan cottage of Mrs. H. More / by Anna Seward -- The bird's nest
+                -- The cat and dog / by Mrs. S.C. Hall -- Affecting history of a wax doll -- The
+                carrier pigeon -- A reflection on the loss of the Comet steam packet -- The
+                butterfly and the two scorpions.</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">[cont.] Lines, addressed to a juvenile son, on presenting him with a
+                watch as a New Year's present / by the Rev. Dr. Booker -- Transmigration, to a young
+                lady, who said she "wished she was a flower" -- The dancing bear / by Miss Webb --
+                To Emma / by the Rev. John Horseman -- Forget me not -- Infant naturalists -- The
+                youthful king, suggested by a picture of Edward the Sixth in his royal
+                robes.</subfield>
+   </datafield>
+   <datafield tag="510" ind1="4" ind2=" ">
+      <subfield code="a">Osborne Coll.,</subfield>
+      <subfield code="c">page 64</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children's poems.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hall, Clara.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027443732</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">PR1175.3 .P64 1830</subfield>
+   <subfield code="e">c. 2</subfield>
+   <subfield code="f">31254027356589</subfield>
+   <subfield code="j">31254803027990</subfield>
+   <subfield code="h">Tray 54</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200229Ia 4500</leader>
+   <controlfield tag="001">990272681290306576</controlfield>
+   <controlfield tag="008">990921s18uu stk j 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027268129UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)42402238</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910751349106561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990272681290306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR1175.3</subfield>
+      <subfield code="b">.S66 1800z</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Songs for the nursery.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="1" ind2="8">
+      <subfield code="a">Nursery songs</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Glasgow :</subfield>
+      <subfield code="b">D. Robertson ;</subfield>
+      <subfield code="a">Ebinburch :</subfield>
+      <subfield code="b">Oliver &amp; Boyd ;</subfield>
+      <subfield code="a">London :</subfield>
+      <subfield code="b">Longmans &amp; Co. and Hamilton, Adams &amp; Co. ;</subfield>
+      <subfield code="a">Dublin :</subfield>
+      <subfield code="b">Wm. Curry &amp; Co.,</subfield>
+      <subfield code="c">[18--?]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">128 p. ;</subfield>
+      <subfield code="c">13 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Cover title.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children's poetry, English.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Nursery rhymes, English.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027268129</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">PR1175.3 .S66 1800z</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803023429</subfield>
+   <subfield code="j">31254803027990</subfield>
+   <subfield code="h">Tray 54</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200289 i 4500</leader>
+   <controlfield tag="001">990252005940306576</controlfield>
+   <controlfield tag="005">20111021114157.0</controlfield>
+   <controlfield tag="008">750226s1974 vaua b 000|0 eng </controlfield>
+   <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a"> 75304933</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)025200594UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)01255602</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910953624606561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990252005940306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">DLC</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">PR1251</subfield>
+      <subfield code="b">.M3</subfield>
+   </datafield>
+   <datafield tag="082" ind1="0" ind2=" ">
+      <subfield code="a">822/.052</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">MacPhail, Ralph,</subfield>
+      <subfield code="e">comp.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Additional adventures of Messrs. Box and Cox /</subfield>
+      <subfield code="c">[compiled] and [with] an introd. by Ralph MacPhail, Jr.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Bridgewater, Va. :</subfield>
+      <subfield code="b">Parenthesis Press,</subfield>
+      <subfield code="c">1974.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">74 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">16 cm.</subfield>
+   </datafield>
+   <datafield tag="504" ind1=" " ind2=" ">
+      <subfield code="a">Bibliography: p. 71-74.</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Gilbert, W. S. A continuation of the dramatic history of Box and
+                Cox.--Burnand, F. C. Penelope Anne.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">English farces.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">English drama</subfield>
+      <subfield code="y">19th century.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Gilbert, W. S.</subfield>
+      <subfield code="q">(William Schwenck),</subfield>
+      <subfield code="d">1836-1911.</subfield>
+      <subfield code="t">Continuation of the dramatic history of Box and Cox. 1974.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2="2">
+      <subfield code="a">Burnand, F. C.</subfield>
+      <subfield code="q">(Francis Cowley),</subfield>
+      <subfield code="d">1836-1917.</subfield>
+      <subfield code="t">Penelope Anne. 1974.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">025200594</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PR1251 .M3</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803023486</subfield>
+   <subfield code="j">31254803028055</subfield>
+   <subfield code="h">Tray 55</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader> cam 2200253Ia 4500</leader>
+   <controlfield tag="001">990261749880306576</controlfield>
+   <controlfield tag="005">20151022085816.0</controlfield>
+   <controlfield tag="008">820309s1883 mau 001 0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">40458879</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026174988UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)08227944</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910246241506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990261749880306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NJT</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">NJT</subfield>
+      <subfield code="d">OCLCG</subfield>
+      <subfield code="d">WPG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+   </datafield>
+   <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">FCFQ</subfield>
+   </datafield>
+   <datafield tag="050" ind1="1" ind2="4">
+      <subfield code="a">PS1953</subfield>
+      <subfield code="b">.H62 1883</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">817.3</subfield>
+      <subfield code="b">H752s</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Holmes, Oliver Wendell,</subfield>
+      <subfield code="d">1809-1894.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Selections from the breakfast-table series, and pages from an old
+                volume of life /</subfield>
+      <subfield code="c">by Oliver Wendell Holmes.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">Houghton, Mifflin,</subfield>
+      <subfield code="c">©1883.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">332 pages ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Modern Classics.</subfield>
+   </datafield>
+   <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Holmes, Oliver Wendell, 1809-1894.</subfield>
+      <subfield code="t">Selections from the breakfast-table series, and pages from an old
+                volume of life.</subfield>
+      <subfield code="d">Boston : Houghton, Mifflin, ©1883</subfield>
+      <subfield code="w">(OCoLC)894220012</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026174988</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">PS1953 .O5 1883</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803178967</subfield>
+   <subfield code="j">31254803028907</subfield>
+   <subfield code="h">Tray 77</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200241Ia 4500</leader>
+   <controlfield tag="001">990274473760306576</controlfield>
+   <controlfield tag="008">991207s1879 enkc 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027447376UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)42947139</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910730991306561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990274473760306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PS2253</subfield>
+      <subfield code="b">.D58 1879</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Longfellow, Henry Wadsworth,</subfield>
+      <subfield code="d">1807-1882.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Selections</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Longfellow birthday book /</subfield>
+      <subfield code="c">arranged by Cecilia Dixon.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">[London] :</subfield>
+      <subfield code="b">G. Routledge &amp; Sons,</subfield>
+      <subfield code="c">[1879?]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">291 p. :</subfield>
+      <subfield code="b">port. ;</subfield>
+      <subfield code="c">13 cm.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Birthday books.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Longfellow, Henry Wadsworth,</subfield>
+      <subfield code="d">1807-1882</subfield>
+      <subfield code="v">Quotations.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Longfellow, Henry Wadsworth,</subfield>
+      <subfield code="d">1807-1882</subfield>
+      <subfield code="v">Calendars.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Dixon, Cecilia.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027447376</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PS2272 .A1 1857</subfield>
+   <subfield code="e">v. 1 c. 2</subfield>
+   <subfield code="f">31254803185061</subfield>
+   <subfield code="j">31254803028964</subfield>
+   <subfield code="h">Tray 78</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200205I 4500</leader>
+   <controlfield tag="001">990277832240306576</controlfield>
+   <controlfield tag="005">20060504133545.0</controlfield>
+   <controlfield tag="008">790504s1857 mauc 000|0 eng </controlfield>
+   <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a"> 28014654</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027783224UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)04927550</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910732010106561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990277832240306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">BXM</subfield>
+      <subfield code="d">m.c.</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PS2272</subfield>
+      <subfield code="b">.A1 1857</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">828</subfield>
+      <subfield code="b">L853, 1857</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Longfellow, Henry Wadsworth,</subfield>
+      <subfield code="d">1807-1882.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Prose works of Henry Wadsworth Longfellow. :</subfield>
+      <subfield code="b">Complete in two volumes.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston, :</subfield>
+      <subfield code="b">Ticknor and Fields,</subfield>
+      <subfield code="c">1857.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">2 v. :</subfield>
+      <subfield code="b">front. (port.) ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">Outre-mer; a pilgrimage beyond the sea.--Drift wood, a collection of
+                essays: Frithiof's saga. Hawthorne's Twice-told tales. The great metropolis.
+                Anglo-Saxon literature. Paris in the seventeenth century. Dante. The Divina
+                commedia. Table-talk.--v. 2. Hyperion, a romance. Kavanagh, a tale.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027783224</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SPCU</subfield>
+   <subfield code="d">PS2272 .A1 1857</subfield>
+   <subfield code="e">v. 2 c. 1</subfield>
+   <subfield code="f">31254803185129</subfield>
+   <subfield code="j">31254803028964</subfield>
+   <subfield code="h">Tray 78</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
+<record>
+   <leader>00000nam 2200241K 4500</leader>
+   <controlfield tag="001">990273657820306576</controlfield>
+   <controlfield tag="008">891129s1842 xx a j 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027365782UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)20707518</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910793763806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990273657820306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">RBN</subfield>
+      <subfield code="c">RBN</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PS991.A1</subfield>
+      <subfield code="b">S43 1839</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="4">
+      <subfield code="a">The seasons.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Northampton :</subfield>
+      <subfield code="b">J.H. Butler,</subfield>
+      <subfield code="c">1839</subfield>
+      <subfield code="f">J. Metcalf.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">18 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">11 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">No. 3590 in Shaw, J.M., Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"J.H. Butler--Northampton"--Cover.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children's poetry.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Butler, Jonathan Hunt,</subfield>
+      <subfield code="d">1804 or 5-1878.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Metcalf, John,</subfield>
+      <subfield code="d">1788-1864.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027365782</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+</record>
+<datafield tag="949" ind1=" " ind2=" ">
+   <subfield code="a">FTaSU</subfield>
+   <subfield code="b">FSUSP</subfield>
+   <subfield code="c">SHAU</subfield>
+   <subfield code="d">PS991.A1 S43 1839</subfield>
+   <subfield code="e"/>
+   <subfield code="f">31254803185186</subfield>
+   <subfield code="j">31254803029137</subfield>
+   <subfield code="h">Tray 75</subfield>
+   <subfield code="x">END OF RECORD</subfield>
+</datafield>
