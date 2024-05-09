@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row>
+        <MMS_ID>990278581600306576</MMS_ID>
+        <Host_MMS>990222228530306576</Host_MMS>
+        <Host_G_No>31254040035673</Host_G_No>
+        <Host_Title>Astvtie sottilissime di Bertoldo.</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22349805130006576</Holding_Id>
+        <Title>Le piacevoli e ridicolose semplicità di Bertoldino figliuolo del già astuto &amp; accorto Bertoldo, con le sottili &amp; argute sentenze della Marcolfa sua madre e moglie del già detto Bertoldo</Title>
+    </row>
+    <row>
+        <MMS_ID>990267293750306576</MMS_ID>
+        <Host_MMS>990251429200306576</Host_MMS>
+        <Host_G_No>31254026400198</Host_G_No>
+        <Host_Title>Le chansonnier patriote, ou Recueil de chansons, vaudevilles et pots-pourris patriotiques</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22369482860006576</Holding_Id>
+        <Title>Manuel du Garde national, et de tous ceux qui se destinent à l'art militaire</Title>
+    </row>
+    <row>
+        <MMS_ID>990222228530306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990278581600306576</Related_MMS>
+        <Related_G_No>31254040035673</Related_G_No>
+        <Related_Title>Le piacevoli e ridicolose semplicità di Bertoldino figliuolo del già astuto &amp; accorto Bertoldo, con le sottili &amp; argute sentenze della Marcolfa sua madre e moglie del già detto Bertoldo</Related_Title>
+        <Holding_Id>22369846830006576</Holding_Id>
+        <Title>Astvtie sottilissime di Bertoldo.</Title>
+    </row>
+    <row>
+        <MMS_ID>990239329580306576</MMS_ID>
+        <Host_MMS>990237925930306576</Host_MMS>
+        <Host_G_No>31254029098114</Host_G_No>
+        <Host_Title>Psalms carefully suited to the Christian worship in the United States of America</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22370152480006576</Holding_Id>
+        <Title>Hymns and spiritual songs</Title>
+    </row>
+    <row>
+        <MMS_ID>990278393190306576</MMS_ID>
+        <Host_MMS>990275898880306576</Host_MMS>
+        <Host_G_No>31254019917869</Host_G_No>
+        <Host_Title>The library</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22372475750006576</Holding_Id>
+        <Title>Poems, chiefly in the Scottish dialect</Title>
+    </row>
+    
+    <row>
+        <MMS_ID>990278397780306576</MMS_ID>
+        <Host_MMS>990275898880306576</Host_MMS>
+        <Host_G_No>31254019917869</Host_G_No>
+        <Host_Title>The library</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22372487410006576</Holding_Id>
+        <Title>The waddin' day</Title>
+    </row>
+    <row>
+        <MMS_ID>990278398010306576</MMS_ID>
+        <Host_MMS>990275898880306576</Host_MMS>
+        <Host_G_No>31254019917869</Host_G_No>
+        <Host_Title>The library</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22372489860006576</Holding_Id>
+        <Title>A new collection of poems on various subjects</Title>
+    </row>
+    <row>
+        <MMS_ID>990275899360306576</MMS_ID>
+        <Host_MMS>990275899100306576</Host_MMS>
+        <Host_G_No>31254029421167</Host_G_No>
+        <Host_Title>The Psalms of David</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22374552790006576</Holding_Id>
+        <Title>Hymns and spiritual songs</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898680306576</MMS_ID>
+        <Host_MMS>990275898510306576</Host_MMS>
+        <Host_G_No>31254029421316</Host_G_No>
+        <Host_Title>The Psalms of David</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22374554730006576</Holding_Id>
+        <Title>A selection of hymns from various authors with directions for musical expression arranged and adapted to the music of the choir, or, Union collection of church music</Title>
+    </row>
+    <row>
+        <MMS_ID>990275897890306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990275898140306576</Related_MMS>
+        <Related_G_No>31254029421084</Related_G_No>
+        <Related_Title>Hymns and spiritual songs</Related_Title>
+        <Holding_Id>22374555470006576</Holding_Id>
+        <Title>The Psalms of David</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898140306576</MMS_ID>
+        <Host_MMS>990275897890306576</Host_MMS>
+        <Host_G_No>31254029421084</Host_G_No>
+        <Host_Title>The Psalms of David</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22374569620006576</Holding_Id>
+        <Title>Hymns and spiritual songs</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898510306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990275898680306576</Related_MMS>
+        <Related_G_No>31254029421316</Related_G_No>
+        <Related_Title>A selection of hymns from various authors with directions for musical expression arranged and adapted to the music of the choir, or, Union collection of church music</Related_Title>
+        <Holding_Id>22374588640006576</Holding_Id>
+        <Title>The Psalms of David</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898510306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990278272860306576</Related_MMS>
+        <Related_G_No>31254029421316</Related_G_No>
+        <Related_Title>Hymns and spiritual songs</Related_Title>
+        <Holding_Id>22374588640006576</Holding_Id>
+        <Title>The Psalms of David</Title>
+    </row>
+    <row>
+        <MMS_ID>990275899100306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990275899360306576</Related_MMS>
+        <Related_G_No>31254029421167</Related_G_No>
+        <Related_Title>Hymns and spiritual songs</Related_Title>
+        <Holding_Id>22374627280006576</Holding_Id>
+        <Title>The Psalms of David</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898880306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990278393190306576</Related_MMS>
+        <Related_G_No>31254019917869</Related_G_No>
+        <Related_Title>Poems, chiefly in the Scottish dialect</Related_Title>
+        <Holding_Id>22374628420006576</Holding_Id>
+        <Title>The library</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898880306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990278397780306576</Related_MMS>
+        <Related_G_No>31254019917869</Related_G_No>
+        <Related_Title>The waddin' day</Related_Title>
+        <Holding_Id>22374628420006576</Holding_Id>
+        <Title>The library</Title>
+    </row>
+    <row>
+        <MMS_ID>990275898880306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990278398010306576</Related_MMS>
+        <Related_G_No>31254019917869</Related_G_No>
+        <Related_Title>A new collection of poems on various subjects</Related_Title>
+        <Holding_Id>22374628420006576</Holding_Id>
+        <Title>The library</Title>
+    </row>
+    <row>
+        <MMS_ID>990289114780306576</MMS_ID>
+        <Host_MMS>990280413270306576</Host_MMS>
+        <Host_G_No>31254011512346</Host_G_No>
+        <Host_Title>Le Lavater des dames; ou, L'art de connoître les femmes sur leur physionomie.</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22380468840006576</Holding_Id>
+        <Title>Le Lavater portatif, ou, précis de l'art de connoître les hommes par les traits du visage</Title>
+    </row>
+    <row>
+        <MMS_ID>990280413270306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990289114780306576</Related_MMS>
+        <Related_G_No>31254011512346</Related_G_No>
+        <Related_Title>Le Lavater portatif, ou, précis de l'art de connoître les hommes par les traits du visage</Related_Title>
+        <Holding_Id>22397272540006576</Holding_Id>
+        <Title>Le Lavater des dames; ou, L'art de connoître les femmes sur leur physionomie.</Title>
+    </row>
+    <row>
+        <MMS_ID>990237968400306576</MMS_ID>
+        <Host_MMS>990237933230306576</Host_MMS>
+        <Host_G_No>31254019931431</Host_G_No>
+        <Host_Title>The book of common prayer</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22400221840006576</Holding_Id>
+        <Title>The whole book of Psalms, in metre, with hymns</Title>
+    </row>
+    <row>
+        <MMS_ID>990237925930306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990239329580306576</Related_MMS>
+        <Related_G_No>31254029098114</Related_G_No>
+        <Related_Title>Hymns and spiritual songs</Related_Title>
+        <Holding_Id>22400312800006576</Holding_Id>
+        <Title>Psalms carefully suited to the Christian worship in the United States of America</Title>
+    </row>
+    <row>
+        <MMS_ID>990237933230306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990237968400306576</Related_MMS>
+        <Related_G_No>31254019931431</Related_G_No>
+        <Related_Title>The whole book of Psalms, in metre, with hymns</Related_Title>
+        <Holding_Id>22400316290006576</Holding_Id>
+        <Title>The book of common prayer</Title>
+    </row>
+    <row>
+        <MMS_ID>990278272860306576</MMS_ID>
+        <Host_MMS>990275898510306576</Host_MMS>
+        <Host_G_No>31254029421316</Host_G_No>
+        <Host_Title>The Psalms of David</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22404876840006576</Holding_Id>
+        <Title>Hymns and spiritual songs</Title>
+    </row>
+    <row>
+        <MMS_ID>990275723450306576</MMS_ID>
+        <Host_MMS>990275721620306576</Host_MMS>
+        <Host_G_No>31254026041042</Host_G_No>
+        <Host_Title>Vie du maréchal Ney, contenant des détails intéressans sur la guerre d'Espagne et de Portugal, et sur la campagne de Moscou, etc., etc.</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22408926520006576</Holding_Id>
+        <Title>Procès du Maréchal Ney, faisant suite à sa vie, et contenant les séances du Conseil de Guerre, les débats et l'audition des témoins à la Chambre des Pairs, etc., etc., et des détails intéressans sur la mort du Maréchal.</Title>
+    </row>
+    <row>
+        <MMS_ID>990275721620306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990275723450306576</Related_MMS>
+        <Related_G_No>31254026041042</Related_G_No>
+        <Related_Title>Procès du Maréchal Ney, faisant suite à sa vie, et contenant les séances du Conseil de Guerre, les débats et l'audition des témoins à la Chambre des Pairs, etc., etc., et des détails intéressans sur la mort du Maréchal.</Related_Title>
+        <Holding_Id>22408927890006576</Holding_Id>
+        <Title>Vie du maréchal Ney, contenant des détails intéressans sur la guerre d'Espagne et de Portugal, et sur la campagne de Moscou, etc., etc.</Title>
+    </row>
+    <row>
+        <MMS_ID>990238864160306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990269911690306576</Related_MMS>
+        <Related_G_No>31254803017553</Related_G_No>
+        <Related_Title>Guia de Cadiz para el año de 1811</Related_Title>
+        <Holding_Id>22410301700006576</Holding_Id>
+        <Title>Guia patriótica de España para el año de 1811</Title>
+    </row>
+    <row>
+        <MMS_ID>990251429200306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990267293750306576</Related_MMS>
+        <Related_G_No>31254026400198</Related_G_No>
+        <Related_Title>Manuel du Garde national, et de tous ceux qui se destinent à l'art militaire</Related_Title>
+        <Holding_Id>22412371960006576</Holding_Id>
+        <Title>Le chansonnier patriote, ou Recueil de chansons, vaudevilles et pots-pourris patriotiques</Title>
+    </row>
+    <row>
+        <MMS_ID>990268614280306576</MMS_ID>
+        <Host_MMS></Host_MMS>
+        <Host_G_No></Host_G_No>
+        <Host_Title></Host_Title>
+        <Related_MMS>990268631540306576</Related_MMS>
+        <Related_G_No>31254010832851</Related_G_No>
+        <Related_Title>Original poems for infant minds</Related_Title>
+        <Holding_Id>22414113010006576</Holding_Id>
+        <Title>Original poems, for infant minds</Title>
+    </row>
+    <row>
+        <MMS_ID>990268631540306576</MMS_ID>
+        <Host_MMS>990268614280306576</Host_MMS>
+        <Host_G_No>31254010832851</Host_G_No>
+        <Host_Title>Original poems, for infant minds</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22414120570006576</Holding_Id>
+        <Title>Original poems for infant minds</Title>
+    </row>
+    <row>
+        <MMS_ID>990269911690306576</MMS_ID>
+        <Host_MMS>990238864160306576</Host_MMS>
+        <Host_G_No>31254803017553</Host_G_No>
+        <Host_Title>Guia patriótica de España para el año de 1811</Host_Title>
+        <Related_MMS></Related_MMS>
+        <Related_G_No></Related_G_No>
+        <Related_Title></Related_Title>
+        <Holding_Id>22461047990006576</Holding_Id>
+        <Title>Guia de Cadiz para el año de 1811</Title>
+    </row>
+</root>

@@ -1,0 +1,2397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+<record>
+   <leader>00000nam 2200205K 4500</leader>
+   <controlfield tag="001">990222228530306576</controlfield>
+   <controlfield tag="005">20060821112129.0</controlfield>
+   <controlfield tag="008">900508s1661 it a 000|0 ita d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)022222853UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)21492114</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910932674406561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990222228530306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ4621.C8</subfield>
+      <subfield code="b">A6 1661</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Croce, Giulio Cesare,</subfield>
+      <subfield code="d">1550-1609.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Astvtie sottilissime di Bertoldo. :</subfield>
+      <subfield code="b">Dove si scorge un villano accorto e sagace, il quale dopo varii, e
+                strani accidenti a lui intervenuti; alla fine per il suo raro &amp; acuto ingegno
+                vien huomo di Cotte, e Regio Consigliero.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2=" ">
+      <subfield code="a">Astutie sottilissime di Bertoldo</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Bertoldo</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Roma :</subfield>
+      <subfield code="b">Per l'Herede del Mancini,</subfield>
+      <subfield code="c">1661.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">96 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">13 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">With Le piacevoli e ridicolose semplicita di Bertoldino / Giulio
+                Cesare Croce. Roma : Mascardi, 1663.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">022222853</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Le piacevoli e ridicolose semplicità di Bertoldino figliuolo del già astuto &amp; accorto Bertoldo, con le sottili &amp; argute sentenze della Marcolfa sua madre e moglie del già detto Bertoldo</subfield>
+      <subfield code="w">990278581600306576</subfield>
+      <subfield code="g">no : 31254040035673</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>01435cam 2200301Ia 4500</leader>
+   <controlfield tag="001">990237925930306576</controlfield>
+   <controlfield tag="005">20220124142149.0</controlfield>
+   <controlfield tag="008">850104s1812 pau 000 0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)023792593UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)11545280</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910894274806561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990237925930306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">TYC</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="c">TYC</subfield>
+      <subfield code="d">OCLCG</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCA</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">FDAA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1812c</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748,</subfield>
+      <subfield code="e">author.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Psalms carefully suited to the Christian worship in the United States
+                of America :</subfield>
+      <subfield code="b">being an improvement of the old version of the Psalms of
+                David.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Woodward's 5th corr. ed.</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Philadelphia :</subfield>
+      <subfield code="b">Printed for and sold by W.W. Woodward,</subfield>
+      <subfield code="c">1812.</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="3">
+      <subfield code="a">([Philadelphia] :</subfield>
+      <subfield code="b">A. Dickinson)</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">[2], 340 pages ;</subfield>
+      <subfield code="c">12 cm</subfield>
+   </datafield>
+   <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With Hymns and spiritual songs / I. Watts. Philadelphia : W.W.
+                Woodward, 1812.</subfield>
+   </datafield>
+   <datafield tag="630" ind1="0" ind2="0">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">Psalms</subfield>
+      <subfield code="v">Paraphrases, English.</subfield>
+   </datafield>
+   <datafield tag="630" ind1="0" ind2="7">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">Psalms</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01808097</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Paraphrases.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423839</subfield>
+   </datafield>
+   <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Watts, Isaac, 1674-1748,</subfield>
+      <subfield code="t">Psalms carefully suited to the Christian worship in the United States
+                of America.</subfield>
+      <subfield code="b">Woodward's fifth corrected edition</subfield>
+      <subfield code="w">(OCoLC)1293238093</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="3">DigiNole</subfield>
+      <subfield code="u">https://purl.lib.fsu.edu/diginole/FSU_BS1440W31812</subfield>
+      <subfield code="y">Connect to online content:</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">023792593</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Hymns and spiritual songs</subfield>
+      <subfield code="w">990239329580306576</subfield>
+      <subfield code="g">no : 31254029098114</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200277 a 4500</leader>
+   <controlfield tag="001">990237933230306576</controlfield>
+   <controlfield tag="005">20070830151657.0</controlfield>
+   <controlfield tag="008">961220s1817 nyu 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)023793323UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)36131143</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910894272506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990237933230306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BX5943</subfield>
+      <subfield code="b">.A1 1817</subfield>
+   </datafield>
+   <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">Episcopal Church.</subfield>
+   </datafield>
+   <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Book of common prayer (1790)</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The book of common prayer :</subfield>
+      <subfield code="b">and administration of the sacraments, and other rites and ceremonies
+                of the church, according to the use of the Protestant Episcopal Church in the United
+                States of America : together with the Psalter, or Psalms of David.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Stereotype ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New-York :</subfield>
+      <subfield code="b">W.B. Gilley,</subfield>
+      <subfield code="c">1817.</subfield>
+      <subfield code="e">(New-York :</subfield>
+      <subfield code="f">stereotyped by B. &amp; J. Collins)</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">vi, [14] 377 p. ;</subfield>
+      <subfield code="c">12 cm.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: The whole book of Psalms, in metre, with hymns, suited to the
+                feasts and fasts of the church, and other occasions of public worship. New-York :
+                W.B. Gilley, 1817.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">Episcopal Church</subfield>
+      <subfield code="x">Liturgy</subfield>
+      <subfield code="x">Texts.</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">Anglican Communion.</subfield>
+      <subfield code="x">Liturgy</subfield>
+      <subfield code="x">Texts.</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">Episcopal Church</subfield>
+      <subfield code="x">Prayers and devotions.</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">Anglican Communion</subfield>
+      <subfield code="v">Prayers and devotions.</subfield>
+   </datafield>
+   <datafield tag="730" ind1="0" ind2=" ">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">O.T.</subfield>
+      <subfield code="p">Psalms.</subfield>
+      <subfield code="l">English.</subfield>
+      <subfield code="f">1817.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">023793323</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">The whole book of Psalms, in metre, with hymns</subfield>
+      <subfield code="w">990237968400306576</subfield>
+      <subfield code="g">no : 31254019931431</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200217 a 4500</leader>
+   <controlfield tag="001">990237968400306576</controlfield>
+   <controlfield tag="008">961220s1817 nyu 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)023796840UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)36131150</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910894201906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990237968400306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BX5943</subfield>
+      <subfield code="b">.A1 1817</subfield>
+   </datafield>
+   <datafield tag="130" ind1="0" ind2=" ">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">O.T.</subfield>
+      <subfield code="p">Psalms.</subfield>
+      <subfield code="l">English.</subfield>
+      <subfield code="k">Paraphrases.</subfield>
+      <subfield code="f">1817.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The whole book of Psalms, in metre, with hymns :</subfield>
+      <subfield code="b">suited to the feasts and fasts of the church, and other occasions of
+                public worship.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">Stereotype ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">New-York :</subfield>
+      <subfield code="b">W.B. Gilley,</subfield>
+      <subfield code="c">1817.</subfield>
+      <subfield code="e">(New-York : Stereotyped by B. &amp; J. Collins)</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">96 p. ;</subfield>
+      <subfield code="c">12 cm.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: Episcopal Church. The book of common prayer. New York : W.B.
+                Gilley, 1817.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="610" ind1="2" ind2="0">
+      <subfield code="a">Episcopal Church</subfield>
+      <subfield code="v">Hymns.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">023796840</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The book of common prayer</subfield>
+      <subfield code="w">990237933230306576</subfield>
+      <subfield code="g">no : 31254019931431</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200253 a 4500</leader>
+   <controlfield tag="001">990238864160306576</controlfield>
+   <controlfield tag="005">20090504162832.0</controlfield>
+   <controlfield tag="008">910415s1811 sp 000|0 spa d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)023886416UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)24785107</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910928665206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990238864160306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">spa------</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DP204</subfield>
+      <subfield code="b">.G84 1811.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Guia patriótica de España para el año de 1811 :</subfield>
+      <subfield code="b">que comprehende los principales artículos de las de forasteros,
+                guerra, marina, hacienda y comercio.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Real Isla de Leon :</subfield>
+      <subfield code="b">En la Imprenta de D. Miguel Segovia, Impresor de la Real
+                Marina,</subfield>
+      <subfield code="c">1811.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">xiii, [3], 214 p. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Bound with: Guia de Cadiz para el año de 1811.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Listings of names of rulers and officials of Spain, 1811.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Two handwritten pages inserted: Regimientos actuales de Catalunia,
+                and a list of military officers of different cities of Spain.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Bound in brown marbled leather, spine embossed in gold
+                decorations.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Spain</subfield>
+      <subfield code="x">Politics and government</subfield>
+      <subfield code="y">1808-1814</subfield>
+      <subfield code="x">Sources.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Spain</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">19th century</subfield>
+      <subfield code="x">Sources.</subfield>
+   </datafield>
+   <datafield tag="610" ind1="1" ind2="0">
+      <subfield code="a">Spain.</subfield>
+      <subfield code="b">Cortes (1910-1813)</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">023886416</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Guia de Cadiz para el año de 1811</subfield>
+      <subfield code="w">990269911690306576</subfield>
+      <subfield code="g">no : 31254803017553</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200229Ia 4500</leader>
+   <controlfield tag="001">990239329580306576</controlfield>
+   <controlfield tag="008">850104s1812 pau 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)023932958UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)11545338</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910628081606561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990239329580306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">TYC</subfield>
+      <subfield code="c">TYC</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1812</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Hymns and spiritual songs :</subfield>
+      <subfield code="b">in three books I. Collected from the scriptures. II. Composed on
+                divine subjects. III. Prepared for the Lord's Supper /</subfield>
+      <subfield code="c">by I. Watts.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">5th corr. ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Philadelphia :</subfield>
+      <subfield code="b">Printed for and sold by W.W. Woodward,</subfield>
+      <subfield code="c">1812</subfield>
+      <subfield code="e">([Philadelphia]</subfield>
+      <subfield code="f">A. Dickinson)</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">319 p., [5] p. ;</subfield>
+      <subfield code="c">12 cm.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: Psalms carefully suited to the Christian worship in the United
+                States of America. [Philadelphia : W.W. Woodward, 1812].</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Hymns, English.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">023932958</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Psalms carefully suited to the Christian worship in the United States of America</subfield>
+      <subfield code="w">990237925930306576</subfield>
+      <subfield code="g">no : 31254029098114</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200217I 4500</leader>
+   <controlfield tag="001">990251429200306576</controlfield>
+   <controlfield tag="005">20050808111351.0</controlfield>
+   <controlfield tag="008">770419s1793 fr 000|0 frex </controlfield>
+   <datafield tag="010" ind1=" " ind2=" ">
+      <subfield code="a"> 21020012</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)025142920UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)02901690</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910666896106561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990251429200306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DLC</subfield>
+      <subfield code="c">YHM</subfield>
+      <subfield code="d">YHM</subfield>
+   </datafield>
+   <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-fr---</subfield>
+   </datafield>
+   <datafield tag="050" ind1="0" ind2=" ">
+      <subfield code="a">M1730</subfield>
+      <subfield code="b">.C315</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="3">
+      <subfield code="a">Le chansonnier patriote, ou Recueil de chansons, vaudevilles et
+                pots-pourris patriotiques /</subfield>
+      <subfield code="c">par différens auteurs.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">Garnéry,</subfield>
+      <subfield code="c">[1793].</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">168, [3] p. :</subfield>
+      <subfield code="b">front. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">With: Manuel du Garde national, et de tous ceux qui se destinent à
+                l'art militaire. Paris : Lepetit, 1792.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">National songs, French.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">France</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Revolution, 1789-1799</subfield>
+      <subfield code="x">Poetry.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">025142920</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Manuel du Garde national, et de tous ceux qui se destinent à l'art militaire</subfield>
+      <subfield code="w">990267293750306576</subfield>
+      <subfield code="g">no : 31254026400198</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>01165nam 2200217Ia 4500</leader>
+   <controlfield tag="001">990267293750306576</controlfield>
+   <controlfield tag="005">20221024170742.0</controlfield>
+   <controlfield tag="008">050808s1792 fr 000 0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026729375UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)61225178</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910832923906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990267293750306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">e-fr---</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Manuel du Garde national, et de tous ceux qui se destinent à l'art
+                militaire :</subfield>
+      <subfield code="b">ou Catéchisme militaire ...</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Catéchisme militaire</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">5e éd., considérablement augmentée, et corrigée d'après l'instruction
+                des Gardes nationales ...</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">Lepetit,</subfield>
+      <subfield code="c">1792.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">84 p., [4] folded leaves of plates :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">"Avec quatre planches qui représentent toutes les pièces d'un fusil,
+                la charge en 12 temps, toutes les positions du Garde, et une compagnie de Gardes
+                nationales rangées en bataille, avec la place qui doivent occuper les officiers et
+                sous-officiers, etc. etc."</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">With: Le chansonnier patriote, ou Recueil de chansons, vaudevilles et
+                pots-pourris patriotiques. Paris : Garnéry, [1793]</subfield>
+   </datafield>
+   <datafield tag="610" ind1="1" ind2="0">
+      <subfield code="a">France.</subfield>
+      <subfield code="b">Armée.</subfield>
+      <subfield code="b">Garde nationale.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Military art and science</subfield>
+      <subfield code="z">France.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026729375</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Le chansonnier patriote, ou Recueil de chansons, vaudevilles et pots-pourris patriotiques</subfield>
+      <subfield code="w">990251429200306576</subfield>
+      <subfield code="g">no : 31254026400198</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000cam 2200241Ia 4500</leader>
+   <controlfield tag="001">990268614280306576</controlfield>
+   <controlfield tag="008">840322r18081804mau j 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026861428UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)24435555</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910496850706561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990268614280306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR4712.G6</subfield>
+      <subfield code="b">O7 1808b</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR4712</subfield>
+      <subfield code="b">G372o, 1808</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Taylor, Jane,</subfield>
+      <subfield code="d">1783-1824.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Original poems, for infant minds /</subfield>
+      <subfield code="c">by several young persons.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">Printed by E.G. House :</subfield>
+      <subfield code="b">Sold by John West and co., and Munroe Francis and Parker, also by
+                O.C. Greenleaf,</subfield>
+      <subfield code="c">1808.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">180 p. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Without music.</subfield>
+      <subfield code="5">FU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Error in pagination; p. 75 misprinted p. 57.</subfield>
+      <subfield code="5">FU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">First published: 1804-1805.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Chiefly by Ann and Jane Taylor; includes poems by Adelaide
+                O'Keeffe.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="5">FU</subfield>
+   </datafield>
+   <datafield tag="510" ind1="4" ind2=" ">
+      <subfield code="a">Welch, D. A., Amer. children's books,</subfield>
+      <subfield code="c">444.3</subfield>
+   </datafield>
+   <datafield tag="510" ind1="4" ind2=" ">
+      <subfield code="a">Stewart, C.D. Taylors of Ongar,</subfield>
+      <subfield code="c">A1yy</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children's poetry, English.</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Hymns</subfield>
+      <subfield code="y">1808.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Greenleaf, Oliver Cromwell,</subfield>
+      <subfield code="d">1777?-1843.</subfield>
+      <subfield code="4">bsl</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">West, David,</subfield>
+      <subfield code="d">1765-1810.</subfield>
+      <subfield code="4">bsl</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">House, E. G.</subfield>
+      <subfield code="q">(Eleazer G.),</subfield>
+      <subfield code="d">1780?-1849.</subfield>
+      <subfield code="4">prt</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">O'Keeffe,</subfield>
+      <subfield code="c">Miss</subfield>
+      <subfield code="q">(Adelaide),</subfield>
+      <subfield code="d">1776-1855?</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Taylor, Ann,</subfield>
+      <subfield code="d">1782-1866.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">John West and Co. 4 bsl</subfield>
+   </datafield>
+   <datafield tag="710" ind1="2" ind2=" ">
+      <subfield code="a">Munroe, Francis &amp; Parker.</subfield>
+      <subfield code="4">bsl</subfield>
+   </datafield>
+   <datafield tag="752" ind1=" " ind2=" ">
+      <subfield code="a">United States</subfield>
+      <subfield code="b">Massachusetts</subfield>
+      <subfield code="d">Boston.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026861428</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Original poems for infant minds</subfield>
+      <subfield code="w">990268631540306576</subfield>
+      <subfield code="g">no : 31254010832851</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200241Ia 4500</leader>
+   <controlfield tag="001">990268631540306576</controlfield>
+   <controlfield tag="008">840501s1809 paua 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026863154UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)10677567</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910660129606561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990268631540306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">GZM</subfield>
+      <subfield code="c">GZM</subfield>
+      <subfield code="d">m/c</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR4712.G6</subfield>
+      <subfield code="b">O7 1809</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Taylor, Jane,</subfield>
+      <subfield code="d">1783-1824.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Original poems for infant minds /</subfield>
+      <subfield code="c">by several young persons.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Philadelphia :</subfield>
+      <subfield code="b">Kimber &amp; Conrad : Brown &amp; Merritt, printers ;</subfield>
+      <subfield code="c">1809.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">v. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Chiefly by Jane and Ann Taylor; includes poems by Adelaide
+                O'Keeffe.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Children's poetry, English.</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">O'Keeffe,</subfield>
+      <subfield code="c">Miss</subfield>
+      <subfield code="q">(Adelaide),</subfield>
+      <subfield code="d">1776-1855?</subfield>
+   </datafield>
+   <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Taylor, Ann,</subfield>
+      <subfield code="d">1782-1866.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026863154</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Original poems, for infant minds</subfield>
+      <subfield code="w">990268614280306576</subfield>
+      <subfield code="g">no : 31254010832851</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200253 a 4500</leader>
+   <controlfield tag="001">990269911690306576</controlfield>
+   <controlfield tag="005">20090504162521.0</controlfield>
+   <controlfield tag="008">911107s1811 sp 000|0 spa d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)026991169UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)24785154</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910618928606561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990269911690306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="043" ind1=" " ind2=" ">
+      <subfield code="a">spa------</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DP204</subfield>
+      <subfield code="b">.G84 1811</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Guia de Cadiz para el año de 1811 :</subfield>
+      <subfield code="b">comprehende todas las oficinas respectivas a los Ramos de real
+                hacienda de esta provincia maritima, gobierno superior de esta plaza, su estado
+                eclesiastico, el militar y el comercial de la misma.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Cadiz :</subfield>
+      <subfield code="b">En la Imprenta de D. Josef Niel, Hijo,</subfield>
+      <subfield code="c">1811.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">120 p. ;</subfield>
+      <subfield code="c">14 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Bound with: Guia patriótica de España para el año de 1811.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Listings of names of officials in Cadiz, 1811.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Bound in brown marbled leather, spine embossed in gold
+                decorations.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Cadiz (Spain : Province)</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">19th century</subfield>
+      <subfield code="x">Sources.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Cadiz (Spain)</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">19th century</subfield>
+      <subfield code="x">Sources.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">Spain</subfield>
+      <subfield code="x">Politics and government</subfield>
+      <subfield code="y">1808-1814</subfield>
+      <subfield code="x">Sources.</subfield>
+   </datafield>
+   <datafield tag="740" ind1="0" ind2=" ">
+      <subfield code="a">Cadiz para el año de 1811.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">026991169</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Guia patriótica de España para el año de 1811</subfield>
+      <subfield code="w">990238864160306576</subfield>
+      <subfield code="g">no : 31254803017553</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200217K 4500</leader>
+   <controlfield tag="001">990275721620306576</controlfield>
+   <controlfield tag="008">861016s1815 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027572162UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)14401363</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910847717206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275721620306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DC198.N6</subfield>
+      <subfield code="b">C45</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Charlemont, J. B. E.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Vie du maréchal Ney,</subfield>
+      <subfield code="b">contenant des détails intéressans sur la guerre d'Espagne et de
+                Portugal, et sur la campagne de Moscou, etc., etc.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris,</subfield>
+      <subfield code="b">Tiger</subfield>
+      <subfield code="c">[1815?]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">105 p.</subfield>
+      <subfield code="b">illus.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">Bound with the author's Procès du Maréchal Ney. Paris
+                [1815?]</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Ney, Michel,</subfield>
+      <subfield code="c">duc d'Elchingen,</subfield>
+      <subfield code="d">1769-1815.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="1" ind2=" ">
+      <subfield code="a">France.</subfield>
+      <subfield code="b">Chambre des pairs.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027572162</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Procès du Maréchal Ney, faisant suite à sa vie, et contenant les séances du Conseil de Guerre, les débats et l'audition des témoins à la Chambre des Pairs, etc., etc., et des détails intéressans sur la mort du Maréchal.</subfield>
+      <subfield code="w">990275723450306576</subfield>
+      <subfield code="g">no : 31254026041042</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200253K 4500</leader>
+   <controlfield tag="001">990275723450306576</controlfield>
+   <controlfield tag="005">20080801143337.0</controlfield>
+   <controlfield tag="008">861016s1815 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027572345UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)14401734</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910847718206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275723450306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">DC198.N6</subfield>
+      <subfield code="b">C45</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Charlemont, J. B. E.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Procès du Maréchal Ney,</subfield>
+      <subfield code="b">faisant suite à sa vie, et contenant les séances du Conseil de
+                Guerre, les débats et l'audition des témoins à la Chambre des Pairs, etc., etc., et
+                des détails intéressans sur la mort du Maréchal.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris,</subfield>
+      <subfield code="b">Tiger</subfield>
+      <subfield code="c">[1815?]</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">108 p.</subfield>
+      <subfield code="b">illus.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">Bound with the author's Vie du Maréchal Ney. Paris [1815?]</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Ney, Michel,</subfield>
+      <subfield code="c">duc d'Elchingen,</subfield>
+      <subfield code="d">1769-1815.</subfield>
+   </datafield>
+   <datafield tag="651" ind1=" " ind2="0">
+      <subfield code="a">France</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Louis XVIII, 1814-1824.</subfield>
+   </datafield>
+   <datafield tag="600" ind1="0" ind2="0">
+      <subfield code="a">Napoleon</subfield>
+      <subfield code="b">I,</subfield>
+      <subfield code="c">Emperor of the French,</subfield>
+      <subfield code="d">1769-1821</subfield>
+      <subfield code="y">Elba and the Hundred days, 1814-1815.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="1" ind2=" ">
+      <subfield code="a">France.</subfield>
+      <subfield code="b">Conseil de guerre permanent de la premiére division
+                militaire.</subfield>
+   </datafield>
+   <datafield tag="710" ind1="1" ind2=" ">
+      <subfield code="a">France.</subfield>
+      <subfield code="b">Chambre des pairs.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027572345</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Vie du maréchal Ney, contenant des détails intéressans sur la guerre d'Espagne et de Portugal, et sur la campagne de Moscou, etc., etc.</subfield>
+      <subfield code="w">990275721620306576</subfield>
+      <subfield code="g">no : 31254026041042</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00817cam 2200217Ia 4500</leader>
+   <controlfield tag="001">990275897890306576</controlfield>
+   <controlfield tag="005">20230327094411.0</controlfield>
+   <controlfield tag="008">830323r18281719nhu 001|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027589789UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)09338343</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697840906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275897890306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">SNN</subfield>
+      <subfield code="c">SNN</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1828</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">223.5</subfield>
+      <subfield code="b">W349, 1828</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Psalms of David :</subfield>
+      <subfield code="b">imitated in the language of the New Testament and applied to the
+                Christian state and worship /</subfield>
+      <subfield code="c">by Isaac Watts.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Sandbornton, N.H. :</subfield>
+      <subfield code="b">Printed and published by D.V. Moulton ;</subfield>
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">Stereotyped by T.H. Carter &amp; Co.,</subfield>
+      <subfield code="c">1828.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">310 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">No. 3617 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Bound with the author's: Hymns and spiritual songs. Sandbornton,
+                N.H., 1828.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Library's copy imperfect: P. 289-302 and p. 307-310
+                lacking.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psalters.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="630" ind1="0" ind2="0">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">Psalms</subfield>
+      <subfield code="v">Paraphrases, English.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589789</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Hymns and spiritual songs</subfield>
+      <subfield code="w">990275898140306576</subfield>
+      <subfield code="g">no : 31254029421084</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200301Ia 4500</leader>
+   <controlfield tag="001">990275898140306576</controlfield>
+   <controlfield tag="008">830323r18281707nhu 001|0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">13635913</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027589814UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)09338502</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697845506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275898140306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">SNN</subfield>
+      <subfield code="c">SNN</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1828</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">223.5</subfield>
+      <subfield code="b">W349, 1828</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">&lt;Hymns and spiritual songs :</subfield>
+      <subfield code="b">in three books ... /</subfield>
+      <subfield code="c">by Isaac Watts.&gt;</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">&lt;Sandbornton, N.H. :</subfield>
+      <subfield code="b">Printed and published by D.V. Moulton ;</subfield>
+      <subfield code="a">Boston :</subfield>
+      <subfield code="b">Stereotyped by T.H. Carter &amp; Co.,</subfield>
+      <subfield code="c">1828.&gt;</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">272 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Without music.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">No. 3617 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Bound with the author's: The Psalms of David, imitated in the
+                language of the New Testament, and applied to the Christian state and worship.
+                Sanbornton, N.H., 1928.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Library's copy imperfect: T.p. and p. 1-8 lacking.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Hymns, English.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589814</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The Psalms of David</subfield>
+      <subfield code="w">990275897890306576</subfield>
+      <subfield code="g">no : 31254029421084</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00716nam 2200205K 4500</leader>
+   <controlfield tag="001">990275898510306576</controlfield>
+   <controlfield tag="005">20230327094417.0</controlfield>
+   <controlfield tag="008">980116s1841 nhu 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027589851UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)38212382</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697859706561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275898510306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NYP</subfield>
+      <subfield code="c">NYP</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1841</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Psalms of David :</subfield>
+      <subfield code="b">imitated in the language of the New Testament and applied to the
+                Christian state and worship /</subfield>
+      <subfield code="c">by Isaac Watts.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Meredith Bridge, N.H. :</subfield>
+      <subfield code="b">Charles Lane,</subfield>
+      <subfield code="c">1841.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">310 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">No. S3619 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: Hymns and spiritual songs / Isaac Watts. Boston : Stereotyped
+                by T.H. Carter, &lt;1841?&gt;.--A selection of hymns from various authors. Meredith
+                Bridge, N.H. : Charles Lane, 1841.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psalters.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="630" ind1="0" ind2="0">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">Psalms</subfield>
+      <subfield code="v">Paraphrases, English.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589851</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Hymns and spiritual songs</subfield>
+      <subfield code="w">990278272860306576</subfield>
+      <subfield code="g">no : 31254029421316</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">A selection of hymns from various authors with directions for musical expression arranged and adapted to the music of the choir, or, Union collection of church music</subfield>
+      <subfield code="w">990275898680306576</subfield>
+      <subfield code="g">no : 31254029421316</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000cam 2200253Ia 4500</leader>
+   <controlfield tag="001">990275898680306576</controlfield>
+   <controlfield tag="008">850605s1841 nhu 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027589868UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)44030069</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697841506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275898680306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1841</subfield>
+   </datafield>
+   <datafield tag="245" ind1="0" ind2="2">
+      <subfield code="a">A selection of hymns from various authors with directions for musical
+                expression arranged and adapted to the music of the choir, or, Union collection of
+                church music /</subfield>
+      <subfield code="c">by a teacher of psalmody.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Union collection of church music</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Meredith Bridge, N.H. :</subfield>
+      <subfield code="b">Charles Lane,</subfield>
+      <subfield code="c">1841.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">192 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Without music.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">No. S3619 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: The Psalms of David / Isaac Watts. Meredith Bridge, N.H. :
+                Charles Lane, 1841.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Hymns, English.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589868</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The Psalms of David</subfield>
+      <subfield code="w">990275898510306576</subfield>
+      <subfield code="g">no : 31254029421316</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>01442cam a22003851i 4500</leader>
+   <controlfield tag="001">990275898880306576</controlfield>
+   <controlfield tag="005">20230303034333.0</controlfield>
+   <controlfield tag="008">870919s1804 stka 000 0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)16719620</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)ocm16719620 </subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697887206561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275898880306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">VHB</subfield>
+      <subfield code="b">eng</subfield>
+      <subfield code="e">rda</subfield>
+      <subfield code="c">VHB</subfield>
+      <subfield code="d">OCLCQ</subfield>
+      <subfield code="d">FDA</subfield>
+      <subfield code="d">OCLCO</subfield>
+      <subfield code="d">OCLCF</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="049" ind1=" " ind2=" ">
+      <subfield code="a">FDAA</subfield>
+   </datafield>
+   <datafield tag="050" ind1=" " ind2="4">
+      <subfield code="a">PR4518</subfield>
+      <subfield code="b">.C2</subfield>
+   </datafield>
+   <datafield tag="082" ind1="0" ind2="4">
+      <subfield code="a">811.54</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Crichton, Thomas,</subfield>
+      <subfield code="e">author.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The library :</subfield>
+      <subfield code="b">a poem.</subfield>
+   </datafield>
+   <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Paisley :</subfield>
+      <subfield code="b">Printed by J. Neilson for R. Smith,</subfield>
+      <subfield code="c">1804.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">73 pages :</subfield>
+      <subfield code="b">illustrations ;</subfield>
+      <subfield code="c">15 cm</subfield>
+   </datafield>
+   <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">text</subfield>
+      <subfield code="b">txt</subfield>
+      <subfield code="2">rdacontent</subfield>
+   </datafield>
+   <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">unmediated</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+   </datafield>
+   <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">volume</subfield>
+      <subfield code="b">nc</subfield>
+      <subfield code="2">rdacarrier</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Illustrated title page.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Authorship attributed to Thomas Crichton. Cf. NUC Pre-1956 imprints
+                (on microfiche), fiche numbers 1853.</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: Poems chiefly in the Scottish dialect / Robert Davidson. Kelso
+                : Alexander Leadbetter, 1812.--The waddin' day / John Robertson. Edinburgh : Printed
+                for the author by R. Menzies, 1824.--A new collection of poems on various subjects /
+                James Barrie. Kelso : Alexander Leadbetter, 1824.</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Poetry.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="2">
+      <subfield code="a">Poetry as Topic</subfield>
+      <subfield code="0">(DNLM)D011037</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="6">
+      <subfield code="a">Poésie.</subfield>
+      <subfield code="0">(CaQQLa)201-0058051</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">poetry.</subfield>
+      <subfield code="2">aat</subfield>
+      <subfield code="0">(CStmoGRI)aat300055931</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="a">Poetry.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01067691</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="2">
+      <subfield code="a">Poetry</subfield>
+      <subfield code="0">(DNLM)D055821</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">poetry.</subfield>
+      <subfield code="2">aat</subfield>
+      <subfield code="0">(CStmoGRI)aatgf300055931</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Poetry.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423828</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Poetry.</subfield>
+      <subfield code="2">lcgft</subfield>
+   </datafield>
+   <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="a">Poésie.</subfield>
+      <subfield code="2">rvmgf</subfield>
+      <subfield code="0">(CaQQLa)RVMGF-000000476</subfield>
+   </datafield>
+   <datafield tag="776" ind1="0" ind2="8">
+      <subfield code="i">Online version:</subfield>
+      <subfield code="a">Crichton, Thomas,</subfield>
+      <subfield code="t">Library</subfield>
+      <subfield code="w">(OCoLC)1371112786</subfield>
+   </datafield>
+   <datafield tag="856" ind1="4" ind2="1">
+      <subfield code="3">DigiNole</subfield>
+      <subfield code="u">https://purl.lib.fsu.edu/diginole/FSU_PR4518C2L531804</subfield>
+      <subfield code="y">Connect to online content:</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589888</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Poems, chiefly in the Scottish dialect</subfield>
+      <subfield code="w">990278393190306576</subfield>
+      <subfield code="g">no : 31254019917869</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">The waddin' day</subfield>
+      <subfield code="w">990278397780306576</subfield>
+      <subfield code="g">no : 31254019917869</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">A new collection of poems on various subjects</subfield>
+      <subfield code="w">990278398010306576</subfield>
+      <subfield code="g">no : 31254019917869</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00908cam 2200241Ia 4500</leader>
+   <controlfield tag="001">990275899100306576</controlfield>
+   <controlfield tag="005">20230327094408.0</controlfield>
+   <controlfield tag="008">920710s1824 nhu 000|0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">26168640</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027589910UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)191251167</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697888006561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275899100306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">TDL</subfield>
+      <subfield code="c">TDL</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1824</subfield>
+   </datafield>
+   <datafield tag="092" ind1=" " ind2=" ">
+      <subfield code="a">245.081</subfield>
+      <subfield code="b">W34p, 1824</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The Psalms of David :</subfield>
+      <subfield code="b">imitated in the language of the New Testament and applied to the
+                Christian state and worship /</subfield>
+      <subfield code="c">by Isaac Watts.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Exeter, N.H. :</subfield>
+      <subfield code="b">Printed and published by Gerrish &amp; Tyler,</subfield>
+      <subfield code="c">1824.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">322 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: Hymns and spiritual songs / by Isaac Watts. Exeter, N.H. :
+                Gerrish &amp; Tyler, 1824.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Nos. S3610 and S3611 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Psalters.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="630" ind1="0" ind2="0">
+      <subfield code="a">Bible.</subfield>
+      <subfield code="p">Psalms</subfield>
+      <subfield code="x">Paraphrases, English.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589910</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Hymns and spiritual songs</subfield>
+      <subfield code="w">990275899360306576</subfield>
+      <subfield code="g">no : 31254029421167</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200289L 4500</leader>
+   <controlfield tag="001">990275899360306576</controlfield>
+   <controlfield tag="008">850628s1824 nhu 000|0 eng d</controlfield>
+   <datafield tag="019" ind1=" " ind2=" ">
+      <subfield code="a">32182149</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027589936UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)13626401</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910697843006561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990275899360306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DRB</subfield>
+      <subfield code="c">DRB</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1824</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Hymns and spiritual songs :</subfield>
+      <subfield code="b">in three books ... /</subfield>
+      <subfield code="c">by Isaac Watts.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Exeter, N.H. :</subfield>
+      <subfield code="b">Printed and published by Gerrish &amp; Tyler,</subfield>
+      <subfield code="c">1824.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">282 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Without music.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">I. Collected from the scriptures.--II. Composed on divine
+                subjects.--III. Prepared for the Lord's Supper.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: The Psalms of David / by Isaac Watts. Exeter, N.H. : Gerrish
+                &amp; Tyler, 1824.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">Nos. S3610 and S3611 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Hymns, English.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027589936</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The Psalms of David</subfield>
+      <subfield code="w">990275899100306576</subfield>
+      <subfield code="g">no : 31254029421167</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000cam 2200277L 4500</leader>
+   <controlfield tag="001">990278272860306576</controlfield>
+   <controlfield tag="008">850711s1841 mau 000|0 eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027827286UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)13626567</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910923787006561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990278272860306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">DRB</subfield>
+      <subfield code="c">DRB</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BS1440</subfield>
+      <subfield code="b">.W3 1841</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Watts, Isaac,</subfield>
+      <subfield code="d">1674-1748.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Hymns and spiritual songs :</subfield>
+      <subfield code="b">in three books /</subfield>
+      <subfield code="c">by Isaac Watts.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Boston &lt;Mass.&gt; :</subfield>
+      <subfield code="b">Stereotyped by T.H. Carter &amp; Co.,</subfield>
+      <subfield code="c">&lt;1841?&gt;</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">266 p. ;</subfield>
+      <subfield code="c">10 cm.</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Without music.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Includes index.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="505" ind1="0" ind2=" ">
+      <subfield code="a">I. Collected from the scriptures.--II. Composed on divine
+                subjects.--III. Prepared for the Lord's Supper.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">No. S3619 in: Shaw, J.M. Childhood in poetry.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: The Psalms of David / Isaac Watts. Meredith Bridge, N.H. :
+                Charles Lane, 1841.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Hymns, English.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Miniature books</subfield>
+      <subfield code="v">Specimens.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027827286</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The Psalms of David</subfield>
+      <subfield code="w">990275898510306576</subfield>
+      <subfield code="g">no : 31254029421316</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200205Ia 4500</leader>
+   <controlfield tag="001">990278393190306576</controlfield>
+   <controlfield tag="008">000504s1812 stk 000|p eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027839319UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)44030879</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910925760706561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990278393190306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR4518.C2</subfield>
+      <subfield code="b">L53 1804</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Davidson, Robert.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Poems, chiefly in the Scottish dialect /</subfield>
+      <subfield code="c">by Robert Davidson.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="1" ind2=" ">
+      <subfield code="i">Binder's title:</subfield>
+      <subfield code="a">Scotish poetical tracts</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Kelso :</subfield>
+      <subfield code="b">Printed by Alexander Leadbetter for the author,</subfield>
+      <subfield code="c">1812.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">72 p. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: The library / &lt;Thomas Crichton&gt;. Paisley : Printed by J.
+                Neilson for R. Smith, 1804.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027839319</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The library</subfield>
+      <subfield code="w">990275898880306576</subfield>
+      <subfield code="g">no : 31254019917869</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200217Ia 4500</leader>
+   <controlfield tag="001">990278397780306576</controlfield>
+   <controlfield tag="008">000504s1824 stk 000|p eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027839778UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)44030607</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910925765506561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990278397780306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR4518.C2</subfield>
+      <subfield code="b">L53 1804</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Robertson, John,</subfield>
+      <subfield code="d">b. 1779.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="4">
+      <subfield code="a">The waddin' day :</subfield>
+      <subfield code="b">an interesting poem being a plain, familiar, and natural description
+                of the various scenes of human life as connected with a married state : also other
+                poems on different subjects and a few songs, all in the Scottish dialect
+                /</subfield>
+      <subfield code="c">by John Robertson.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="1" ind2=" ">
+      <subfield code="i">Binder's title:</subfield>
+      <subfield code="a">Scotish poetical tracts</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">3rd ed.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Edinburgh :</subfield>
+      <subfield code="b">Printed for the author by R. Menzies,</subfield>
+      <subfield code="c">1824.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">72 p. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: The library / &lt;Thomas Crichton&gt;. Paisley : Printed by J.
+                Neilson for R. Smith, 1804.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027839778</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The library</subfield>
+      <subfield code="w">990275898880306576</subfield>
+      <subfield code="g">no : 31254019917869</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200217Ia 4500</leader>
+   <controlfield tag="001">990278398010306576</controlfield>
+   <controlfield tag="008">000504s1824 stk 000|p eng d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027839801UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)44030217</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910925763906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990278398010306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PR4518.C2</subfield>
+      <subfield code="b">L53 1804</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Barrie, James,</subfield>
+      <subfield code="d">b. 1753.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="2">
+      <subfield code="a">A new collection of poems on various subjects /</subfield>
+      <subfield code="c">by James Barrie.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="1" ind2=" ">
+      <subfield code="i">Binder's title:</subfield>
+      <subfield code="a">Scotish poetical tracts</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Kelso :</subfield>
+      <subfield code="b">Printed by Alex. Leadbetter for the author,</subfield>
+      <subfield code="c">1824.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">124 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">15 cm.</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: The library / &lt;Thomas Crichton&gt;. Paisley : Printed by J.
+                Neilson for R. Smith, 1804.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="600" ind1="1" ind2="0">
+      <subfield code="a">Wallace, William,</subfield>
+      <subfield code="c">Sir,</subfield>
+      <subfield code="d">-1305</subfield>
+      <subfield code="v">Poetry.</subfield>
+   </datafield>
+   <datafield tag="932" ind1="2" ind2=" ">
+      <subfield code="a">John MacKay Shaw Childhood in Poetry Collection (Florida State
+                University).</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027839801</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">The library</subfield>
+      <subfield code="w">990275898880306576</subfield>
+      <subfield code="g">no : 31254019917869</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader> nam 2200181Ia 4500</leader>
+   <controlfield tag="001">990278581600306576</controlfield>
+   <controlfield tag="005">20060808104117.0</controlfield>
+   <controlfield tag="008">060807s1663 it a 000 h ita d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)027858160UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)70845928</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910691929606561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990278581600306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">PQ4621.C8</subfield>
+      <subfield code="b">A6 1661</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Croce, Giulio Cesare,</subfield>
+      <subfield code="d">1550-1609.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">Le piacevoli e ridicolose semplicità di Bertoldino figliuolo del già
+                astuto &amp; accorto Bertoldo, con le sottili &amp; argute sentenze della Marcolfa
+                sua madre e moglie del già detto Bertoldo :</subfield>
+      <subfield code="b">opera tanto piena di moralità quanto di spasso /</subfield>
+      <subfield code="c">di Giulio Cesare Croce.</subfield>
+   </datafield>
+   <datafield tag="246" ind1="3" ind2="0">
+      <subfield code="a">Bertoldino</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">In Roma :</subfield>
+      <subfield code="b">Per il Mascardi,</subfield>
+      <subfield code="c">1663.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">96 p. :</subfield>
+      <subfield code="b">ill. ;</subfield>
+      <subfield code="c">13 cm.</subfield>
+   </datafield>
+   <datafield tag="590" ind1=" " ind2=" ">
+      <subfield code="a">With: Astutie sottilissime di Bertoldo / [G.C. Croce]. In Roma : Per
+                l'herede del Mancini, 1661.</subfield>
+      <subfield code="5">FTaSU</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">027858160</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Astvtie sottilissime di Bertoldo.</subfield>
+      <subfield code="w">990222228530306576</subfield>
+      <subfield code="g">no : 31254040035673</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 22002771 4500</leader>
+   <controlfield tag="001">990280413270306576</controlfield>
+   <controlfield tag="005">20110915073954.0</controlfield>
+   <controlfield tag="008">820128s1809 xx a 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028041327UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)14839892</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910868628906561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990280413270306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">NLM</subfield>
+      <subfield code="c">NLM</subfield>
+      <subfield code="d">m.c.</subfield>
+      <subfield code="d">FDA</subfield>
+   </datafield>
+   <datafield tag="060" ind1="0" ind2=" ">
+      <subfield code="a">WZ 290</subfield>
+      <subfield code="b">L397L 1809</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BF842</subfield>
+      <subfield code="b">.L38 1809</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lavater, Johann Caspar,</subfield>
+      <subfield code="d">1741-1801.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">Le Lavater des dames; ou, L'art de connoître les femmes sur leur
+                physionomie.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">2. éd.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris,</subfield>
+      <subfield code="b">Hocquart,</subfield>
+      <subfield code="c">1809.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">58 p.</subfield>
+      <subfield code="b">ill.</subfield>
+      <subfield code="c">13 cm.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: Le Lavater portatif. Paris : Hocquart, 1809.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Physiognomy.</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Women</subfield>
+      <subfield code="x">Portraits.</subfield>
+   </datafield>
+   <datafield tag="740" ind1="3" ind2="1">
+      <subfield code="a">Le Lavater portatif.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028041327</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="774" ind1="0" ind2="8">
+      <subfield code="t">Le Lavater portatif, ou, précis de l'art de connoître les hommes par les traits du visage</subfield>
+      <subfield code="w">990289114780306576</subfield>
+      <subfield code="g">no : 31254011512346</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+<record>
+   <leader>00000nam 2200229 a 4500</leader>
+   <controlfield tag="001">990289114780306576</controlfield>
+   <controlfield tag="005">20110915074052.0</controlfield>
+   <controlfield tag="008">930527s1809 fr 000|0 fre d</controlfield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(aleph)028911478UXU01</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(OCoLC)28231700</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(EXLNZ-01FALSC_NETWORK)9910783978306561</subfield>
+   </datafield>
+   <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(01FALSC_FSU)990289114780306576</subfield>
+   </datafield>
+   <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">FDA</subfield>
+      <subfield code="c">FDA</subfield>
+   </datafield>
+   <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">BF842</subfield>
+      <subfield code="b">.L38 1809</subfield>
+   </datafield>
+   <datafield tag="100" ind1="1" ind2=" ">
+      <subfield code="a">Lavater, Johann Caspar,</subfield>
+      <subfield code="d">1741-1801.</subfield>
+   </datafield>
+   <datafield tag="245" ind1="1" ind2="3">
+      <subfield code="a">Le Lavater portatif, ou, précis de l'art de connoître les hommes par
+                les traits du visage : avec trente-trois planches coloriées.</subfield>
+   </datafield>
+   <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">3e éd.</subfield>
+   </datafield>
+   <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">Paris :</subfield>
+      <subfield code="b">Chez Madame Veuve Hocquart,</subfield>
+      <subfield code="c">1809.</subfield>
+   </datafield>
+   <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">47 p., 32 [i.e. 33] leaves of plates :</subfield>
+      <subfield code="b">col. ill. ;</subfield>
+      <subfield code="c">13 cm.</subfield>
+   </datafield>
+   <datafield tag="501" ind1=" " ind2=" ">
+      <subfield code="a">With: Le Lavater des dames. Paris, Hocquart, 1809.</subfield>
+      <subfield code="5">FTaSU</subfield>
+   </datafield>
+   <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Physiognomy.</subfield>
+   </datafield>
+   <datafield tag="740" ind1="3" ind2="1">
+      <subfield code="a">Le Lavater des dames.</subfield>
+   </datafield>
+   <datafield tag="998" ind1=" " ind2=" ">
+      <subfield code="a">028911478</subfield>
+      <subfield code="9">LOCAL</subfield>
+   </datafield>
+   <datafield tag="773" ind1="0" ind2=" ">
+      <subfield code="t">Le Lavater des dames; ou, L'art de connoître les femmes sur leur physionomie.</subfield>
+      <subfield code="w">990280413270306576</subfield>
+      <subfield code="g">no : 31254011512346</subfield>
+      <subfield code="9">unrelated</subfield>
+      <subfield code="9">local</subfield>
+   </datafield>
+</record>
+</collection>
