@@ -96,7 +96,9 @@
                 <xsl:variable name="Collection" select="Collection"/>
                 <xsl:variable name="Title_500" select="Title_500"/>
                 <xsl:variable name="Norm_Title" select="Title"/>
-                <xsl:variable name="Title_Volume" select="Title_Volume"/>
+                <xsl:variable name="Volume" select="Volume"/>
+                <xsl:variable name="Translated_Title" select="Translated_Title"/>
+                <xsl:variable name="Subtitle" select="Subtitle"/>
                 <xsl:variable name="Part_Title" select="Part_Title"/>
                 <xsl:variable name="Statement_of_Responsibility"
                     select="Statement_of_Responsibility"/>
@@ -109,7 +111,7 @@
                 <xsl:variable name="Corporate_Creator_Name_2" select="Corporate_Creator_Name_2"/>
                 <xsl:variable name="Corporate_Creator_Name_3" select="Corporate_Creator_Name_3"/>
                 <xsl:variable name="Corporate_Creator_Name_4" select="Corporate_Creator_Name_4"/>
-                <xsl:variable name="Corporate_Creator_Name_5" select="Corporate_Creator_Name_5"/> 
+                <xsl:variable name="Corporate_Creator_Name_5" select="Corporate_Creator_Name_5"/>
                 <xsl:variable name="Publisher" select="Publisher"/>
                 <xsl:variable name="Publication_Year" select="Publication_Year"/>
                 <xsl:variable name="Field008_year" select="Field008_year"/>
@@ -130,20 +132,75 @@
                 <xsl:variable name="EnumerationA" select="EnumerationA"/>
                 <xsl:variable name="EnumerationB" select="EnumerationB"/>
                 <xsl:variable name="Location" select="Location"/>
+                <xsl:variable name="field300a" select="field300a"/>
+                <xsl:variable name="field300e" select="field300e"/>
+                <xsl:variable name="field336a" select="field336a"/>
+                <xsl:variable name="field336b" select="field336b"/>
+                <xsl:variable name="field337a" select="field337a"/>
+                <xsl:variable name="field337b" select="field337b"/>
+                <xsl:variable name="field338a" select="field338a"/>
+                <xsl:variable name="field338b" select="field338b"/>
+                <xsl:variable name="field347a" select="field347a"/>
+                <xsl:variable name="field347b" select="field347b"/>
+                <xsl:variable name="field347e" select="field347e"/>
+                <xsl:variable name="field347e2" select="field347e2"/>
+                <xsl:variable name="field041a" select="Language_1_code"/>
+                <xsl:variable name="field041h1" select="Language_2_code"/>
+                <xsl:variable name="field041h2" select="Language_3_code"/>
+                <xsl:variable name="field041h3" select="Language_4_code"/>
+                <xsl:variable name="field041h4" select="Language_5_code"/>
+                <xsl:variable name="field041h5" select="Language_6_code"/>
+                <xsl:variable name="field041h6" select="Language_7_code"/>
+                <xsl:variable name="field041j1" select="Subtitle_1_code"/>
+                <xsl:variable name="field041j2" select="Subtitle_2_code"/>
+                <xsl:variable name="field041j3" select="Subtitle_3_code"/>
+                <xsl:variable name="field041j4" select="Subtitle_4_code"/>
+                <xsl:variable name="field041j5" select="Subtitle_5_code"/>
+                <xsl:variable name="field041j6" select="Subtitle_6_code"/>
+                <xsl:variable name="field041j7" select="Subtitle_7_code"/>
+                <xsl:variable name="field041j8" select="Subtitle_8_code"/>
+                <xsl:variable name="field041j9" select="Subtitle_9_code"/>
+                <xsl:variable name="field041j10" select="Subtitle_10_code"/>
+                <xsl:variable name="field041j11" select="Subtitle_11_code"/>
+                <xsl:variable name="field041j12" select="Subtitle_12_code"/>
+                <xsl:variable name="field041j13" select="Subtitle_13_code"/>
+                <xsl:variable name="field041j14" select="Subtitle_14_code"/>
+                <xsl:variable name="field041j15" select="Subtitle_15_code"/>
+                <xsl:variable name="field041j16" select="Subtitle_16_code"/>
+                <xsl:variable name="field041j17" select="Subtitle_17_code"/>
+                <xsl:variable name="field041j18" select="Subtitle_18_code"/>
+                <xsl:variable name="field041j19" select="Subtitle_19_code"/>
+                <xsl:variable name="field041j20" select="Subtitle_20_code"/>
+                <xsl:variable name="field041j21" select="Subtitle_21_code"/>
+                <xsl:variable name="field041j22" select="Subtitle_22_code"/>
+                <xsl:variable name="field041j23" select="Subtitle_23_code"/>
+                <xsl:variable name="field041j24" select="Subtitle_24_code"/>
+                <xsl:variable name="Contents" select="Contents"/>
+                <xsl:variable name="field007vidform" select="field007vidform"/>
+                <xsl:variable name="Language_Note" select="Language_Note"/>
+                <xsl:variable name="Accessibility_Note" select="Accessibility_Note"/>
 
                 <!-- Here begins the tempate for the MARC record -->
                 <marc:record>
                     <!--  Leader and control fields<-->
                     <marc:leader>
-                        <xsl:text>     nam  22     Mi 4500</xsl:text>
+                        <xsl:text>     ngm  22     Mi 4500</xsl:text>
                     </marc:leader>
+
+                    <marc:controlfield tag="007">
+                        <xsl:text>vd#|</xsl:text>
+                        <xsl:value-of select="$field007vidform"/>
+                        <xsl:text>ai||</xsl:text>
+                    </marc:controlfield>
 
                     <!-- The date in the 008 field is grabbed from a field in the spreadsheet that is separate from the publication date. 
                         This is to account for "uuuu" dates. -->
                     <marc:controlfield tag="008">
                         <xsl:text>      </xsl:text>
                         <xsl:value-of select="concat('s', $Field008_year)"/>
-                        <xsl:text>    xx            000 0     d</xsl:text>
+                        <xsl:text>    xx |||            v|</xsl:text>
+                        <xsl:value-of select="$field041a"/>
+                        <xsl:text> d</xsl:text>
                     </marc:controlfield>
 
                     <marc:datafield tag="040" ind1=" " ind2=" ">
@@ -152,6 +209,251 @@
                         <marc:subfield code="c">FDA</marc:subfield>
                     </marc:datafield>
 
+                    <marc:datafield tag="041" ind1="0" ind2=" ">
+                        <marc:subfield code="a">
+                            <xsl:value-of select="$field041a"/>
+                        </marc:subfield>
+                        <marc:subfield code="h">
+                            <xsl:choose>
+                                <xsl:when test="$field041h1 != ''">
+                                    <xsl:value-of select="$field041h1"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="h">
+                            <xsl:choose>
+                                <xsl:when test="$field041h2 != ''">
+                                    <xsl:value-of select="$field041h2"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="h">
+                            <xsl:choose>
+                                <xsl:when test="$field041h3 != ''">
+                                    <xsl:value-of select="$field041h3"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="h">
+                            <xsl:choose>
+                                <xsl:when test="$field041h4 != ''">
+                                    <xsl:value-of select="$field041h4"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="h">
+                            <xsl:choose>
+                                <xsl:when test="$field041h5 != ''">
+                                    <xsl:value-of select="$field041h5"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="h">
+                            <xsl:choose>
+                                <xsl:when test="$field041h6 != ''">
+                                    <xsl:value-of select="$field041h6"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j1 != ''">
+                                    <xsl:value-of select="$field041j1"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j2 != ''">
+                                    <xsl:value-of select="$field041j2"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j3 != ''">
+                                    <xsl:value-of select="$field041j3"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j4 != ''">
+                                    <xsl:value-of select="$field041j4"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j5 != ''">
+                                    <xsl:value-of select="$field041j5"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j6 != ''">
+                                    <xsl:value-of select="$field041j6"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j7 != ''">
+                                    <xsl:value-of select="$field041j7"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j8 != ''">
+                                    <xsl:value-of select="$field041j8"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j9 != ''">
+                                    <xsl:value-of select="$field041j9"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j10 != ''">
+                                    <xsl:value-of select="$field041j10"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j11 != ''">
+                                    <xsl:value-of select="$field041j11"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j12 != ''">
+                                    <xsl:value-of select="$field041j12"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j13 != ''">
+                                    <xsl:value-of select="$field041j13"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j14 != ''">
+                                    <xsl:value-of select="$field041j14"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j15 != ''">
+                                    <xsl:value-of select="$field041j15"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j16 != ''">
+                                    <xsl:value-of select="$field041j16"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j17 != ''">
+                                    <xsl:value-of select="$field041j17"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j18 != ''">
+                                    <xsl:value-of select="$field041j18"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j19 != ''">
+                                    <xsl:value-of select="$field041j19"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j20 != ''">
+                                    <xsl:value-of select="$field041j20"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j21 != ''">
+                                    <xsl:value-of select="$field041j21"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j22 != ''">
+                                    <xsl:value-of select="$field041j22"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j23 != ''">
+                                    <xsl:value-of select="$field041j23"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="j">
+                            <xsl:choose>
+                                <xsl:when test="$field041j24 != ''">
+                                    <xsl:value-of select="$field041j24"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
 
                     <!-- This template allows for a large number of 035 fields, each of which corresponds to one row on the spreadsheet. 
                         This allows for individual rows on the spreadsheet to be included on the same bib.  -->
@@ -159,7 +461,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_1 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_1)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_1)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -169,7 +471,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_2 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_2)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_2)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -179,7 +481,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_3 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_3)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_3)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -189,7 +491,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_4 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_4)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_4)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -199,7 +501,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_5 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_5)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_5)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -209,7 +511,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_6 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_6)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_6)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -219,7 +521,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_7 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_7)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_7)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -229,7 +531,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_8 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_8)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_8)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -239,7 +541,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_9 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_9)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_9)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -249,7 +551,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_10 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_10)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_10)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -259,7 +561,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_11 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_11)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_11)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -269,7 +571,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_12 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_12)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_12)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -279,7 +581,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_13 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_13)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_13)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -289,7 +591,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_14 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_14)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_14)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -299,7 +601,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_15 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_15)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_15)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -309,7 +611,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_16 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_16)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_16)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -319,7 +621,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_17 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_17)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_17)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -329,7 +631,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_18 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_18)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_18)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -339,7 +641,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_19 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_19)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_19)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -349,7 +651,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_20 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_20)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_20)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -359,7 +661,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_21 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_21)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_21)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -369,7 +671,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_22 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_22)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_22)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -379,7 +681,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_23 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_23)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_23)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -389,7 +691,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_24 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_24)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_24)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -399,7 +701,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_25 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_25)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_25)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -409,7 +711,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_26 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_26)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_26)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -419,7 +721,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_27 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_27)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_27)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -429,7 +731,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_28 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_28)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_28)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -439,7 +741,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_29 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_29)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_29)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -449,7 +751,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_30 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_30)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_30)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -459,7 +761,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_31 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_31)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_31)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -469,7 +771,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_32 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_32)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_32)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -479,7 +781,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_33 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_33)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_33)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -489,7 +791,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_34 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_34)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_34)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -499,18 +801,17 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_35 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_35)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_35)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
                         </marc:subfield>
                     </marc:datafield>
-
                     <marc:datafield tag="035" ind1=" " ind2=" ">
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_36 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_36)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_36)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -520,7 +821,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_37 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_37)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_37)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -530,7 +831,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_38 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_38)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_38)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -540,7 +841,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_39 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_39)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_39)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -550,7 +851,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_40 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_40)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_40)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -560,7 +861,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_41 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_41)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_41)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -570,7 +871,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_42 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_42)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_42)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -580,7 +881,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_43 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_43)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_43)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -590,7 +891,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_44 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_44)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_44)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -600,7 +901,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_45 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_45)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_45)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -610,7 +911,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_46 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_46)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_46)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -620,7 +921,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_47 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_47)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_47)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -630,7 +931,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_48 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_48)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_48)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -640,7 +941,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_49 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_49)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_49)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -650,7 +951,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_50 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_50)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_50)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -660,7 +961,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_51 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_51)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_51)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -670,7 +971,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_52 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_52)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_52)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -680,7 +981,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_53 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_53)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_53)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -690,7 +991,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_54 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_54)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_54)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -700,7 +1001,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_55 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_55)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_55)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -710,7 +1011,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_56 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_56)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_56)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -720,7 +1021,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_57 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_57)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_57)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -730,7 +1031,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_58 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_58)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_58)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -740,7 +1041,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_59 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_59)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_59)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -750,7 +1051,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_60 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_60)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_60)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -760,7 +1061,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_61 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_61)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_61)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -770,7 +1071,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_62 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_62)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_62)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -780,7 +1081,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_63 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_63)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_63)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -790,7 +1091,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_64 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_64)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_64)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -800,7 +1101,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_65 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_65)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_65)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -810,7 +1111,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_66 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_66)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_66)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -820,7 +1121,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_67 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_67)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_67)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -830,7 +1131,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_68 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_68)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_68)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -840,7 +1141,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_69 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_69)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_69)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -850,7 +1151,7 @@
                         <marc:subfield code="a">
                             <xsl:choose>
                                 <xsl:when test="$field035_70 != ''">
-                                    <xsl:value-of select="concat('(FSUSCA)', $field035_70)"/>
+                                    <xsl:value-of select="concat('(FSUFLOR)', $field035_70)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -865,6 +1166,7 @@
                             <xsl:value-of select="$IID"/>
                         </marc:subfield>
                     </marc:datafield>
+
 
                     <!-- This field is used to populate the LC call number field  -->
                     <marc:datafield tag="050" ind1=" " ind2="4">
@@ -943,6 +1245,8 @@
                     <xsl:variable name="space">
                         <xsl:text> </xsl:text>
                     </xsl:variable>
+                    
+                    
 
                     <!-- This portion of the template looks for personal or corporate creator fields
                     so as to determine the first indicator for the 245 field -->
@@ -966,7 +1270,6 @@
                         </xsl:choose>
                     </xsl:variable>
 
-
                     <!-- This portion fo the template looks at the title field to try and find
                     stop words and punctuation  at the beginning of titles 
                     and determine the second indicator for the 245 -->
@@ -978,7 +1281,31 @@
                             <xsl:when test="starts-with($Norm_Title, 'An ')">
                                 <xsl:value-of select="3"/>
                             </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'El ')">
+                                <xsl:value-of select="3"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'Un ')">
+                                <xsl:value-of select="3"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'Il ')">
+                                <xsl:value-of select="3"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'Au ')">
+                                <xsl:value-of select="3"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'Le ')">
+                                <xsl:value-of select="3"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'La ')">
+                                <xsl:value-of select="3"/>
+                            </xsl:when>
                             <xsl:when test="starts-with($Norm_Title, 'The ')">
+                                <xsl:value-of select="4"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'Una ')">
+                                <xsl:value-of select="4"/>
+                            </xsl:when>
+                            <xsl:when test="starts-with($Norm_Title, 'Les ')">
                                 <xsl:value-of select="4"/>
                             </xsl:when>
                             <xsl:when test="starts-with($Norm_Title, $quote)">
@@ -1008,26 +1335,15 @@
                     to determine how subfield a should be punctuated -->
                     <xsl:variable name="field245a_punct">
                         <xsl:choose>
-                            <xsl:when test="$Title_Volume = ''">
-                                <xsl:choose>
-                                    <xsl:when test="$Part_Title != ''">
-                                        <xsl:text>.</xsl:text>
-                                    </xsl:when>
-                                    <xsl:when test="$Part_Title = ''">
-                                        <xsl:choose>
-                                            <xsl:when test="$Statement_of_Responsibility != ''">
-                                                <text> /</text>
-                                            </xsl:when>
-                                            <xsl:when test="$Statement_of_Responsibility != ''">
-                                                <text/>
-                                            </xsl:when>
-                                        </xsl:choose>
-                                    </xsl:when>
-                                </xsl:choose>
+                            <xsl:when test="$Subtitle != ''">
+                                <text> :</text>
                             </xsl:when>
-                            <xsl:when test="$Title_Volume != ''">
-                                <xsl:text>.</xsl:text>
+                            <xsl:when test="$Translated_Title != ''">
+                                <text> =</text>
                             </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text/>
+                            </xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
 
@@ -1036,10 +1352,10 @@
                     to determine how subfield n should be punctuated -->
                     <xsl:variable name="field245n_punct">
                         <xsl:choose>
-                            <xsl:when test="$Title_Volume = ''">
+                            <xsl:when test="$Volume = ''">
                                 <text/>
                             </xsl:when>
-                            <xsl:when test="$Title_Volume != ''">
+                            <xsl:when test="$Volume != ''">
                                 <xsl:choose>
                                     <xsl:when test="$Part_Title != ''">
                                         <text>,</text>
@@ -1085,10 +1401,26 @@
                         <marc:subfield code="a">
                             <xsl:value-of select="concat($Norm_Title, $field245a_punct)"/>
                         </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:choose>
+                                <xsl:when test="$Subtitle != ''">
+                                    <xsl:value-of select="$Subtitle"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:choose>
+                                <xsl:when test="$Translated_Title != ''">
+                                    <xsl:value-of select="$Translated_Title"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
                         <marc:subfield code="n">
                             <xsl:choose>
-                                <xsl:when test="$Title_Volume != ''">
-                                    <xsl:value-of select="concat($Title_Volume, $field245n_punct)"/>
+                                <xsl:when test="$Volume != ''">
+                                    <xsl:value-of select="concat($Volume, $field245n_punct)"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
@@ -1134,36 +1466,150 @@
                             <xsl:value-of select="$Publication_Year"/>
                         </marc:subfield>
                     </marc:datafield>
+                    <!-- This portion of the template determines the punctuation for the
+                    300 subfield c based on the presence of a 300 e (i.e., it decides whether to add
+                    a plus sign or not) -->
+                    <xsl:variable name="field300c_punct">
+                        <xsl:choose>
+                            <xsl:when test="$field300e = ''">
+                                <text/>
+                            </xsl:when>
+                            <xsl:when test="$field300e != ''">
+                                <xsl:text> +</xsl:text>
+                            </xsl:when>
+                        </xsl:choose>
+                    </xsl:variable>
+                    
+                    <!-- This portion of the template determines the punctuation for the
+                    300 subfield a ) -->
+                    <xsl:variable name="field300a_punct">
+                        <xsl:text> :</xsl:text>
+                    </xsl:variable>
+                    
 
-                    <!-- The 300 field currently just includes a subfield a "volume" -->
+                    <!-- The 300 field grabs values for the subfield a, inserts a subfield c,
+                    and looks for an e, inserting the + punctuation if the e exists-->
                     <marc:datafield tag="300" ind1=" " ind2=" ">
-                        <marc:subfield code="a">volume</marc:subfield>
+                        <marc:subfield code="a">
+                            <xsl:value-of select="concat($field300a, $field300a_punct)"/>
+                        </marc:subfield>
+                        <marc:subfield code="c">
+                            <xsl:text>4 3/4 in.</xsl:text>
+                            <xsl:value-of select="$field300c_punct"/>
+                        </marc:subfield>
+                        <xsl:choose>
+                            <xsl:when test="$field300e != ''">
+                                <marc:subfield code="e">
+                                    <xsl:value-of select="$field300e"/>
+                                </marc:subfield>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <marc:subfield code="e">null</marc:subfield>
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </marc:datafield>
+
+
 
                     <!-- Values in the 33x fields are for books -->
                     <marc:datafield tag="336" ind1=" " ind2=" ">
-                        <marc:subfield code="a">text</marc:subfield>
-                        <marc:subfield code="b">txt</marc:subfield>
+                        <marc:subfield code="a">
+                            <xsl:value-of select="$field336a"/>
+                        </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:value-of select="$field336b"/>
+                        </marc:subfield>
                         <marc:subfield code="2">rdacontent</marc:subfield>
                     </marc:datafield>
                     <marc:datafield tag="337" ind1=" " ind2=" ">
-                        <marc:subfield code="a">unmediated</marc:subfield>
-                        <marc:subfield code="b">n</marc:subfield>
+                        <marc:subfield code="a">
+                            <xsl:value-of select="$field337a"/>
+                        </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:value-of select="$field337b"/>
+                        </marc:subfield>
                         <marc:subfield code="2">rdamedia</marc:subfield>
                     </marc:datafield>
                     <marc:datafield tag="338" ind1=" " ind2=" ">
-                        <marc:subfield code="a">volume</marc:subfield>
-                        <marc:subfield code="b">nc</marc:subfield>
+                        <marc:subfield code="a">
+                            <xsl:value-of select="$field338a"/>
+                        </marc:subfield>
+                        <marc:subfield code="b">
+                            <xsl:value-of select="$field338b"/>
+                        </marc:subfield>
                         <marc:subfield code="2">rdacarrier</marc:subfield>
                     </marc:datafield>
 
-                    <!-- Here is a 500 note thta includes the titles as they appeared
+                    <marc:datafield tag="340" ind1=" " ind2=" ">
+                        <marc:subfield code="b">4 3/4 in.</marc:subfield>
+                    </marc:datafield>
+
+                    <marc:datafield tag="344" ind1=" " ind2=" ">
+                        <marc:subfield code="a">digital</marc:subfield>
+                        <marc:subfield code="2">rdatr</marc:subfield>
+                    </marc:datafield>
+
+                    <marc:datafield tag="344" ind1=" " ind2=" ">
+                        <marc:subfield code="b">optical</marc:subfield>
+                        <marc:subfield code="2">rdarm</marc:subfield>
+                    </marc:datafield>
+
+                    <marc:datafield tag="347" ind1=" " ind2=" ">
+                        <marc:subfield code="a">
+                            <xsl:value-of select="$field347a"/>
+                        </marc:subfield>
+                        <marc:subfield code="2">rdaft</marc:subfield>
+                    </marc:datafield>
+
+                    <marc:datafield tag="347" ind1=" " ind2=" ">
+                        <marc:subfield code="b">
+                            <xsl:value-of select="$field347b"/>
+                        </marc:subfield>
+                    </marc:datafield>
+
+                    <xsl:choose>
+                        <xsl:when test="$field347e != ''">
+                            <marc:datafield tag="347" ind1=" " ind2=" ">
+                                <marc:subfield code="e">
+                                    <xsl:choose>
+                                        <xsl:when test="$field347e != ''">
+                                            <xsl:value-of select="$field347e"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>null</xsl:otherwise>
+                                    </xsl:choose>
+                                </marc:subfield>
+                                <marc:subfield code="e">
+                                    <xsl:choose>
+                                        <xsl:when test="$field347e2 != ''">
+                                            <xsl:value-of select="$field347e2"/>
+                                        </xsl:when>
+                                        <xsl:otherwise>null</xsl:otherwise>
+                                    </xsl:choose>
+                                </marc:subfield>
+                                <marc:subfield code="2">
+                                    <xsl:choose>
+                                        <xsl:when test="$field347e != ''">
+                                            <xsl:text>rdare</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>null</xsl:otherwise>
+                                    </xsl:choose>
+                                </marc:subfield>
+                            </marc:datafield>
+                        </xsl:when>
+                    </xsl:choose>
+
+                    <marc:datafield tag="380" ind1=" " ind2=" ">
+                        <marc:subfield code="a">Motion pictures</marc:subfield>
+                        <marc:subfield code="2">lcgft</marc:subfield>
+                    </marc:datafield>
+
+                    <!-- Here is a 500 note that includes the titles as they appeared
                     on the spreadsheet. For set records, this note is omitted. -->
                     <marc:datafield tag="500" ind1=" " ind2=" ">
                         <xsl:choose>
                             <xsl:when test="$Title_500 != ''">
                                 <marc:subfield code="a">Title on spreadsheet: "<xsl:value-of
-                                        select="$Title_500"/>."</marc:subfield>
+                                    select="$Title_500"/>."</marc:subfield>
                             </xsl:when>
                             <xsl:otherwise>
                                 <marc:subfield code="a">null</marc:subfield>
@@ -1171,17 +1617,43 @@
                         </xsl:choose>
                     </marc:datafield>
 
-                    <!-- Binding note 500 field -->
-                    <marc:datafield tag="500" ind1=" " ind2=" ">
+                    <!-- Binding note 505 field -->
+                    <marc:datafield tag="505" ind1="0" ind2=" ">
                         <marc:subfield code="a">
                             <xsl:choose>
-                                <xsl:when test="$Binding_Note != ''">
-                                    <xsl:value-of select="$Binding_Note"/>
+                                <xsl:when test="$Contents != ''">
+                                    <xsl:value-of select="$Contents"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
                         </marc:subfield>
                     </marc:datafield>
+
+
+                    <!-- Language note in 546 field -->
+                    <marc:datafield tag="546" ind1=" " ind2=" ">
+                        <marc:subfield code="a">
+                            <xsl:choose>
+                                <xsl:when test="$Language_Note != ''">
+                                    <xsl:value-of select="$Language_Note"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
+
+                    <!-- Accessibility note in 532 field -->
+                    <marc:datafield tag="532" ind1="1" ind2=" ">
+                        <marc:subfield code="a">
+                            <xsl:choose>
+                                <xsl:when test="$Accessibility_Note != ''">
+                                    <xsl:value-of select="$Accessibility_Note"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
+
 
                     <!-- Any other notes left on the spreadsheet are included here -->
                     <marc:datafield tag="500" ind1=" " ind2=" ">
@@ -1321,7 +1793,7 @@
                             </xsl:choose>
                         </marc:subfield>
                     </marc:datafield>
-                    
+
                     <!-- The 932 field lists the name of the archival collection -->
                     <marc:datafield tag="932" ind1="2" ind2=" ">
                         <marc:subfield code="a">
@@ -1358,10 +1830,8 @@
                     and Chronology fields are used to differentiate different items in a set -->
                     <marc:datafield tag="949" ind1=" " ind2=" ">
                         <marc:subfield code="a">FTaSU</marc:subfield>
-                        <marc:subfield code="b">FSUSP</marc:subfield>
-                        <marc:subfield code="c">
-                            <xsl:value-of select="$Location"/>
-                        </marc:subfield>
+                        <marc:subfield code="b">FSUFL</marc:subfield>
+                        <marc:subfield code="c">DVD</marc:subfield>
 
                         <marc:subfield code="j">
                             <xsl:choose>
