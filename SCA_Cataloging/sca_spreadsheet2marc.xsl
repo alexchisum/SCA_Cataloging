@@ -130,13 +130,22 @@
                 <xsl:variable name="EnumerationA" select="EnumerationA"/>
                 <xsl:variable name="EnumerationB" select="EnumerationB"/>
                 <xsl:variable name="Location" select="Location"/>
-
+                <xsl:variable name="Item_Call_Number" select="Item_Call_Number"/>
+                <xsl:variable name="field_866" select="field_866"/>
+                <xsl:variable name="Stats_Note_1" select="Stats_Note_1"/> 
+                
                 <!-- Here begins the tempate for the MARC record -->
                 <marc:record>
-                    <!--  Leader and control fields<-->
+                    <!--  Leader and control fields for books
                     <marc:leader>
                         <xsl:text>     nam  22     Mi 4500</xsl:text>
                     </marc:leader>
+                     -->
+                    <!--  Leader and control fields for archival collections -->
+                    <marc:leader>
+                        <xsl:text>     npca 22     Mi 4500</xsl:text>
+                    </marc:leader>
+
 
                     <!-- The date in the 008 field is grabbed from a field in the spreadsheet that is separate from the publication date. 
                         This is to account for "uuuu" dates. -->
@@ -906,7 +915,19 @@
                         </marc:subfield>
                     </marc:datafield>
 
-
+                    <!-- This field is used to populate the local call number field  -->
+                    <marc:datafield tag="099" ind1=" " ind2="9">
+                        <marc:subfield code="a">
+                            <xsl:choose>
+                                <xsl:when test="$field035_1 != ''">
+                                    <xsl:value-of select="$field035_1"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                    </marc:datafield>
+                    
+                    
                     <!-- The first name that appears on the spreadsheet is used in the 100 field,
                     regardless of that person's role in creating the resource -->
                     <marc:datafield tag="100" ind1="1" ind2=" ">
@@ -1135,12 +1156,12 @@
                         </marc:subfield>
                     </marc:datafield>
 
-                    <!-- The 300 field currently just includes a subfield a "volume" -->
+                    <!-- The 300 field currently just includes a subfield a "volume"
                     <marc:datafield tag="300" ind1=" " ind2=" ">
                         <marc:subfield code="a">volume</marc:subfield>
                     </marc:datafield>
-
-                    <!-- Values in the 33x fields are for books -->
+                     -->
+                    <!-- Values in the 33x fields are for books
                     <marc:datafield tag="336" ind1=" " ind2=" ">
                         <marc:subfield code="a">text</marc:subfield>
                         <marc:subfield code="b">txt</marc:subfield>
@@ -1156,7 +1177,7 @@
                         <marc:subfield code="b">nc</marc:subfield>
                         <marc:subfield code="2">rdacarrier</marc:subfield>
                     </marc:datafield>
-
+                     -->
                     <!-- Here is a 500 note thta includes the titles as they appeared
                     on the spreadsheet. For set records, this note is omitted. -->
                     <marc:datafield tag="500" ind1=" " ind2=" ">
@@ -1415,6 +1436,30 @@
                             <xsl:choose>
                                 <xsl:when test="$EnumerationB != ''">
                                     <xsl:value-of select="$EnumerationB"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="o">
+                            <xsl:choose>
+                                <xsl:when test="$Item_Call_Number != ''">
+                                    <xsl:value-of select="$Item_Call_Number"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="p">
+                            <xsl:choose>
+                                <xsl:when test="$Stats_Note_1 != ''">
+                                    <xsl:value-of select="$Stats_Note_1"/>
+                                </xsl:when>
+                                <xsl:otherwise>null</xsl:otherwise>
+                            </xsl:choose>
+                        </marc:subfield>
+                        <marc:subfield code="t">
+                            <xsl:choose>
+                                <xsl:when test="$field_866 != ''">
+                                    <xsl:value-of select="$field_866"/>
                                 </xsl:when>
                                 <xsl:otherwise>null</xsl:otherwise>
                             </xsl:choose>
